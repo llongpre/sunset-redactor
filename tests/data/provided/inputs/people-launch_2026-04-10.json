@@ -1,0 +1,423 @@
+[
+    {
+      "type": "message",
+      "ts": "1775820000.000000",
+      "client_msg_id": "synthetic-1775820000-000000",
+      "text": "Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_89834",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U01WILL",
+      "user_profile": {
+        "avatar_hash": "h_u01will",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/will.harper_72.png",
+        "first_name": "Will",
+        "real_name": "Will Harper",
+        "display_name": "Will Harper",
+        "team": "T_SYNTH_EXAM",
+        "name": "will.harper",
+        "title": "Product lead",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1775820000.000000",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1775820180.000000",
+      "reply_users": [
+        "U02GRACE",
+        "U03MAY",
+        "U11DANA"
+      ],
+      "replies": [
+        {
+          "user": "U02GRACE",
+          "ts": "1775820060.000000"
+        },
+        {
+          "user": "U03MAY",
+          "ts": "1775820120.000000"
+        },
+        {
+          "user": "U11DANA",
+          "ts": "1775820180.000000"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": true
+    },
+    {
+      "type": "message",
+      "ts": "1775820120.000000",
+      "client_msg_id": "synthetic-1775820120-000000",
+      "text": "Grace Liu says we can say grace before the launch dinner; only the first Grace is a person.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_77952",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grace Liu says we can say grace before the launch dinner; only the first Grace is a person."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U02GRACE",
+      "user_profile": {
+        "avatar_hash": "h_u02grace",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grace.liu_72.png",
+        "first_name": "Grace",
+        "real_name": "Grace Liu",
+        "display_name": "Grace Liu",
+        "team": "T_SYNTH_EXAM",
+        "name": "grace.liu",
+        "title": "ML engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1775820000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1775820240.000000",
+      "client_msg_id": "synthetic-1775820240-000000",
+      "text": "May Chen may invite Renee Cho at rcho@bioverse.example to the April review.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_22285",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "May Chen may invite Renee Cho at rcho@bioverse.example to the April review."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U03MAY",
+      "user_profile": {
+        "avatar_hash": "h_u03may",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/may.chen_72.png",
+        "first_name": "May",
+        "real_name": "May Chen",
+        "display_name": "May Chen",
+        "team": "T_SYNTH_EXAM",
+        "name": "may.chen",
+        "title": "Data scientist",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1775820000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1775820360.000000",
+      "client_msg_id": "synthetic-1775820360-000000",
+      "text": "Dana Kim: Elena Garcia's email elena.garcia@bioverse.example should be removed from launch-brief-v7.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_12600",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dana Kim: Elena Garcia's email elena.garcia@bioverse.example should be removed from launch-brief-v7."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U11DANA",
+      "user_profile": {
+        "avatar_hash": "h_u11dana",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/dana.kim_72.png",
+        "first_name": "Dana",
+        "real_name": "Dana Kim",
+        "display_name": "Dana Kim",
+        "team": "T_SYNTH_EXAM",
+        "name": "dana.kim",
+        "title": "Eng manager",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1775820000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1775820480.000000",
+      "client_msg_id": "synthetic-1775820480-000000",
+      "text": "Mark Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_39450",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mark Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U04MARK",
+      "user_profile": {
+        "avatar_hash": "h_u04mark",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/mark.rivera_72.png",
+        "first_name": "Mark",
+        "real_name": "Mark Rivera",
+        "display_name": "Mark Rivera",
+        "team": "T_SYNTH_EXAM",
+        "name": "mark.rivera",
+        "title": "Infra engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1775820600.000000",
+      "client_msg_id": "synthetic-1775820600-000000",
+      "text": "Rose Patel said signups rose after Sam Lee at Northstar VC shared the page.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_61605",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Rose Patel said signups rose after Sam Lee at Northstar VC shared the page."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U07ROSE",
+      "user_profile": {
+        "avatar_hash": "h_u07rose",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/rose.patel_72.png",
+        "first_name": "Rose",
+        "real_name": "Rose Patel",
+        "display_name": "Rose Patel",
+        "team": "T_SYNTH_EXAM",
+        "name": "rose.patel",
+        "title": "PM",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1775820720.000000",
+      "client_msg_id": "synthetic-1775820720-000000",
+      "text": "Faith Morgan found passport P4319927 in a screenshot and opened risk-8842 for review.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_88824",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Faith Morgan found passport P4319927 in a screenshot and opened risk-8842 for review."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U08FAITH",
+      "user_profile": {
+        "avatar_hash": "h_u08faith",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/faith.morgan_72.png",
+        "first_name": "Faith",
+        "real_name": "Faith Morgan",
+        "display_name": "Faith Morgan",
+        "team": "T_SYNTH_EXAM",
+        "name": "faith.morgan",
+        "title": "Compliance lead",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1775820840.000000",
+      "client_msg_id": "synthetic-1775820840-000000",
+      "text": "Hope Kaplan wrote \u201chope this helps\u201d in the PRD comments; only Hope Kaplan is a person.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_35860",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Hope Kaplan wrote \u201chope this helps\u201d in the PRD comments; only Hope Kaplan is a person."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U06HOPE",
+      "user_profile": {
+        "avatar_hash": "h_u06hope",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/hope.kaplan_72.png",
+        "first_name": "Hope",
+        "real_name": "Hope Kaplan",
+        "display_name": "Hope Kaplan",
+        "team": "T_SYNTH_EXAM",
+        "name": "hope.kaplan",
+        "title": "Designer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1775820960.000000",
+      "client_msg_id": "synthetic-1775820960-000000",
+      "text": "Bill Nguyen says the KindlyMD deck should stay next to the Slack folder for the PDF part of the exercise.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_45238",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Bill Nguyen says the KindlyMD deck should stay next to the Slack folder for the PDF part of the exercise."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U05BILL",
+      "user_profile": {
+        "avatar_hash": "h_u05bill",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/bill.nguyen_72.png",
+        "first_name": "Bill",
+        "real_name": "Bill Nguyen",
+        "display_name": "Bill Nguyen",
+        "team": "T_SYNTH_EXAM",
+        "name": "bill.nguyen",
+        "title": "Payments engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1775821080.000000",
+      "client_msg_id": "synthetic-1775821080-000000",
+      "text": "Grant Lee will grant permission for the final export after the review checklist passes.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_39731",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grant Lee will grant permission for the final export after the review checklist passes."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U09GRANT",
+      "user_profile": {
+        "avatar_hash": "h_u09grant",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grant.lee_72.png",
+        "first_name": "Grant",
+        "real_name": "Grant Lee",
+        "display_name": "Grant Lee",
+        "team": "T_SYNTH_EXAM",
+        "name": "grant.lee",
+        "title": "Security engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    }
+  ]

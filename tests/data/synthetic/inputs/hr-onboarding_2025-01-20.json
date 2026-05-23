@@ -1,0 +1,148 @@
+[
+  {
+    "type": "message",
+    "ts": "1737331200.000000",
+    "client_msg_id": "synthetic-1737331200-000000",
+    "text": "I-9 verification complete. On file: SSN 123-45-6789 and passport P9876543. Notification sent to hr@acmecorp.example.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_20001",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "I-9 verification complete. On file: SSN 123-45-6789 and passport P9876543. Notification sent to hr@acmecorp.example."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "bot_id": "B_SYNTH_HR",
+    "username": "HR Bot"
+  },
+  {
+    "type": "message",
+    "ts": "1737331320.000000",
+    "client_msg_id": "synthetic-1737331320-000000",
+    "text": "Rose Patel here — new hire signups rose by four this month. Passport P4319927 is filed for the new hire's I-9.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_20002",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Rose Patel here — new hire signups rose by four this month. Passport P4319927 is filed for the new hire's I-9."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U07ROSE",
+    "user_profile": {
+      "avatar_hash": "h_u07rose",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/rose.patel_72.png",
+      "first_name": "Rose",
+      "real_name": "Rose Patel",
+      "display_name": "Rose Patel",
+      "team": "T_SYNTH_EXAM",
+      "name": "rose.patel",
+      "title": "People ops",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "ts": "1737331440.000000",
+    "client_msg_id": "synthetic-1737331440-000000",
+    "text": "Hope Kaplan here. I hope the summer intern paperwork is sorted — Summer is always a hectic season for onboarding.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_20003",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Hope Kaplan here. I hope the summer intern paperwork is sorted — Summer is always a hectic season for onboarding."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U06HOPE",
+    "user_profile": {
+      "avatar_hash": "h_u06hope",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/hope.kaplan_72.png",
+      "first_name": "Hope",
+      "real_name": "Hope Kaplan",
+      "display_name": "Hope Kaplan",
+      "team": "T_SYNTH_EXAM",
+      "name": "hope.kaplan",
+      "title": "UX designer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "ts": "1737331560.000000",
+    "client_msg_id": "synthetic-1737331560-000000",
+    "text": "Grant Lee approved the offer. We will grant them system access on day one.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_20004",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Grant Lee approved the offer. We will grant them system access on day one."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U09GRANT",
+    "user_profile": {
+      "avatar_hash": "h_u09grant",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/grant.lee_72.png",
+      "first_name": "Grant",
+      "real_name": "Grant Lee",
+      "display_name": "Grant Lee",
+      "team": "T_SYNTH_EXAM",
+      "name": "grant.lee",
+      "title": "Security engineer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

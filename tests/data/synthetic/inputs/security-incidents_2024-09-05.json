@@ -1,0 +1,187 @@
+[
+  {
+    "type": "message",
+    "ts": "1725494400.000000",
+    "client_msg_id": "synthetic-1725494400-000000",
+    "text": "ALERT: Suspicious login from 10.24.18.77 on 2024-09-05. Incident INC-2024-0905 opened.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_10001",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "ALERT: Suspicious login from 10.24.18.77 on 2024-09-05. Incident INC-2024-0905 opened."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "subtype": "bot_message",
+    "bot_id": "B_SYNTH_SECURITY",
+    "username": "Security Bot"
+  },
+  {
+    "type": "message",
+    "ts": "1725494520.000000",
+    "client_msg_id": "synthetic-1725494520-000000",
+    "text": "Chase Kim here — I will chase the IP owner for confirmation. Token xoxb-1122-demo-token was also exposed in the build logs.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_10002",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Chase Kim here — I will chase the IP owner for confirmation. Token xoxb-1122-demo-token was also exposed in the build logs."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U10CHASE",
+    "user_profile": {
+      "avatar_hash": "h_u10chase",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/chase.kim_72.png",
+      "first_name": "Chase",
+      "real_name": "Chase Kim",
+      "display_name": "Chase Kim",
+      "team": "T_SYNTH_EXAM",
+      "name": "chase.kim",
+      "title": "Developer advocate",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "ts": "1725494640.000000",
+    "client_msg_id": "synthetic-1725494640-000000",
+    "text": "Faith Morgan reached the vendor — primary line +44 20 7946 0958, US backup +1 646-555-0142.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_10003",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Faith Morgan reached the vendor — primary line +44 20 7946 0958, US backup +1 646-555-0142."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U08FAITH",
+    "user_profile": {
+      "avatar_hash": "h_u08faith",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/faith.morgan_72.png",
+      "first_name": "Faith",
+      "real_name": "Faith Morgan",
+      "display_name": "Faith Morgan",
+      "team": "T_SYNTH_EXAM",
+      "name": "faith.morgan",
+      "title": "Compliance lead",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "ts": "1725494760.000000",
+    "client_msg_id": "synthetic-1725494760-000000",
+    "text": "@here — please mark the incident as SEV1 once Chase Kim confirms scope. Mark Rivera signing off.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_10004",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "@here — please mark the incident as SEV1 once Chase Kim confirms scope. Mark Rivera signing off."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U04MARK",
+    "user_profile": {
+      "avatar_hash": "h_u04mark",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/mark.rivera_72.png",
+      "first_name": "Mark",
+      "real_name": "Mark Rivera",
+      "display_name": "Mark Rivera",
+      "team": "T_SYNTH_EXAM",
+      "name": "mark.rivera",
+      "title": "Infra engineer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  },
+  {
+    "type": "message",
+    "ts": "1725494880.000000",
+    "client_msg_id": "synthetic-1725494880-000000",
+    "text": "Reminder: the grace period for expired tokens is 48 hours per our rotation policy. Grace Liu out.",
+    "team": "T_SYNTH_EXAM",
+    "user_team": "T_SYNTH_EXAM",
+    "source_team": "T_SYNTH_EXAM",
+    "blocks": [
+      {
+        "type": "rich_text",
+        "block_id": "b_10005",
+        "elements": [
+          {
+            "type": "rich_text_section",
+            "elements": [
+              {
+                "type": "text",
+                "text": "Reminder: the grace period for expired tokens is 48 hours per our rotation policy. Grace Liu out."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "user": "U02GRACE",
+    "user_profile": {
+      "avatar_hash": "h_u02grace",
+      "image_72": "https://avatars.slack-edge.com/2026-04-01/grace.liu_72.png",
+      "first_name": "Grace",
+      "real_name": "Grace Liu",
+      "display_name": "Grace Liu",
+      "team": "T_SYNTH_EXAM",
+      "name": "grace.liu",
+      "title": "ML engineer",
+      "is_restricted": false,
+      "is_ultra_restricted": false
+    }
+  }
+]

@@ -1,0 +1,423 @@
+[
+    {
+      "type": "message",
+      "ts": "1718190000.000000",
+      "client_msg_id": "synthetic-1718190000-000000",
+      "text": "May Chen posted the June 12, 2024 retention analysis for experiment exp_2024_0612. Conversion rose 4.2% in May after the onboarding change.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_75279",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "May Chen posted the June 12, 2024 retention analysis for experiment exp_2024_0612. Conversion rose 4.2% in May after the onboarding change."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U03MAY",
+      "user_profile": {
+        "avatar_hash": "h_u03may",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/may.chen_72.png",
+        "first_name": "May",
+        "real_name": "May Chen",
+        "display_name": "May Chen",
+        "team": "T_SYNTH_EXAM",
+        "name": "may.chen",
+        "title": "Data scientist",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1718190000.000000",
+      "reply_count": 3,
+      "reply_users_count": 3,
+      "latest_reply": "1718190180.000000",
+      "reply_users": [
+        "U02GRACE",
+        "U07ROSE",
+        "U01WILL"
+      ],
+      "replies": [
+        {
+          "user": "U02GRACE",
+          "ts": "1718190060.000000"
+        },
+        {
+          "user": "U07ROSE",
+          "ts": "1718190120.000000"
+        },
+        {
+          "user": "U01WILL",
+          "ts": "1718190180.000000"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": true
+    },
+    {
+      "type": "message",
+      "ts": "1718190120.000000",
+      "client_msg_id": "synthetic-1718190120-000000",
+      "text": "Grace Liu: the grace period cohort has lower churn, but grace period is a product term here.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_12319",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grace Liu: the grace period cohort has lower churn, but grace period is a product term here."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U02GRACE",
+      "user_profile": {
+        "avatar_hash": "h_u02grace",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grace.liu_72.png",
+        "first_name": "Grace",
+        "real_name": "Grace Liu",
+        "display_name": "Grace Liu",
+        "team": "T_SYNTH_EXAM",
+        "name": "grace.liu",
+        "title": "ML engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1718190000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1718190240.000000",
+      "client_msg_id": "synthetic-1718190240-000000",
+      "text": "Rose Patel agrees the metric rose because returning users were overrepresented. Rose is my name; rose after the metric is a verb.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_26385",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Rose Patel agrees the metric rose because returning users were overrepresented. Rose is my name; rose after the metric is a verb."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U07ROSE",
+      "user_profile": {
+        "avatar_hash": "h_u07rose",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/rose.patel_72.png",
+        "first_name": "Rose",
+        "real_name": "Rose Patel",
+        "display_name": "Rose Patel",
+        "team": "T_SYNTH_EXAM",
+        "name": "rose.patel",
+        "title": "PM",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1718190000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1718190360.000000",
+      "client_msg_id": "synthetic-1718190360-000000",
+      "text": "Will Harper will ask Ari Mendoza for approval before emailing ari.mendoza@bioverse.example.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_64346",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Will Harper will ask Ari Mendoza for approval before emailing ari.mendoza@bioverse.example."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U01WILL",
+      "user_profile": {
+        "avatar_hash": "h_u01will",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/will.harper_72.png",
+        "first_name": "Will",
+        "real_name": "Will Harper",
+        "display_name": "Will Harper",
+        "team": "T_SYNTH_EXAM",
+        "name": "will.harper",
+        "title": "Product lead",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1718190000.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1718190480.000000",
+      "client_msg_id": "synthetic-1718190480-000000",
+      "text": "Mark Rivera asked us to mark rows with exp_2024_0612 before export so the notebook and dashboard reconcile.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_72675",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mark Rivera asked us to mark rows with exp_2024_0612 before export so the notebook and dashboard reconcile."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U04MARK",
+      "user_profile": {
+        "avatar_hash": "h_u04mark",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/mark.rivera_72.png",
+        "first_name": "Mark",
+        "real_name": "Mark Rivera",
+        "display_name": "Mark Rivera",
+        "team": "T_SYNTH_EXAM",
+        "name": "mark.rivera",
+        "title": "Infra engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1718190600.000000",
+      "client_msg_id": "synthetic-1718190600-000000",
+      "text": "Hope Kaplan: I hope the chart labels do not turn hope into a person placeholder.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_42129",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Hope Kaplan: I hope the chart labels do not turn hope into a person placeholder."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U06HOPE",
+      "user_profile": {
+        "avatar_hash": "h_u06hope",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/hope.kaplan_72.png",
+        "first_name": "Hope",
+        "real_name": "Hope Kaplan",
+        "display_name": "Hope Kaplan",
+        "team": "T_SYNTH_EXAM",
+        "name": "hope.kaplan",
+        "title": "Designer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1718190720.000000",
+      "client_msg_id": "synthetic-1718190720-000000",
+      "text": "Chase Kim compared Chase Bank referral traffic with organic fintech traffic; only Chase Bank is an organization.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_58584",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chase Kim compared Chase Bank referral traffic with organic fintech traffic; only Chase Bank is an organization."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U10CHASE",
+      "user_profile": {
+        "avatar_hash": "h_u10chase",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/chase.kim_72.png",
+        "first_name": "Chase",
+        "real_name": "Chase Kim",
+        "display_name": "Chase Kim",
+        "team": "T_SYNTH_EXAM",
+        "name": "chase.kim",
+        "title": "Developer advocate",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1718190840.000000",
+      "client_msg_id": "synthetic-1718190840-000000",
+      "text": "Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis notes and flagged it for cleanup.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_57411",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis notes and flagged it for cleanup."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U11DANA",
+      "user_profile": {
+        "avatar_hash": "h_u11dana",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/dana.kim_72.png",
+        "first_name": "Dana",
+        "real_name": "Dana Kim",
+        "display_name": "Dana Kim",
+        "team": "T_SYNTH_EXAM",
+        "name": "dana.kim",
+        "title": "Eng manager",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1718190960.000000",
+      "client_msg_id": "synthetic-1718190960-000000",
+      "text": "Grant Lee says grant-funded users should stay a segment label. The phrase grant-funded is not a person.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_43485",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grant Lee says grant-funded users should stay a segment label. The phrase grant-funded is not a person."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U09GRANT",
+      "user_profile": {
+        "avatar_hash": "h_u09grant",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grant.lee_72.png",
+        "first_name": "Grant",
+        "real_name": "Grant Lee",
+        "display_name": "Grant Lee",
+        "team": "T_SYNTH_EXAM",
+        "name": "grant.lee",
+        "title": "Security engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1718191080.000000",
+      "client_msg_id": "synthetic-1718191080-000000",
+      "text": "Faith Morgan wants the Q3 dashboard to mention Northstar VC only in the customer narrative section.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_98348",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Faith Morgan wants the Q3 dashboard to mention Northstar VC only in the customer narrative section."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U08FAITH",
+      "user_profile": {
+        "avatar_hash": "h_u08faith",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/faith.morgan_72.png",
+        "first_name": "Faith",
+        "real_name": "Faith Morgan",
+        "display_name": "Faith Morgan",
+        "team": "T_SYNTH_EXAM",
+        "name": "faith.morgan",
+        "title": "Compliance lead",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    }
+  ]

@@ -1,0 +1,318 @@
+[
+    {
+      "type": "message",
+      "ts": "1730970000.000000",
+      "client_msg_id": "synthetic-1730970000-000000",
+      "text": "==========\nDaily Metrics Time\n_Nov 7 2024 at 00:00 +0000_ to _Nov 7 2024 at 23:59 +0000_\nBill payment registration error - bill payment failed for 128 users.\nNew Applications: 412\nACH returns: 9",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_56099",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "==========\nDaily Metrics Time\n_Nov 7 2024 at 00:00 +0000_ to _Nov 7 2024 at 23:59 +0000_\nBill payment registration error - bill payment failed for 128 users.\nNew Applications: 412\nACH returns: 9"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "subtype": "bot_message",
+      "bot_id": "B_SYNTH_METRICS",
+      "username": "Metrics Bot"
+    },
+    {
+      "type": "message",
+      "ts": "1730970120.000000",
+      "client_msg_id": "synthetic-1730970120-000000",
+      "text": "Bill payment registration error - #<OpenStruct code=BILL_PAY_042> - do not redact Bill when the phrase is Bill payment.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_57577",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Bill payment registration error - #<OpenStruct code=BILL_PAY_042> - do not redact Bill when the phrase is Bill payment."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "subtype": "bot_message",
+      "bot_id": "B_SYNTH_METRICS",
+      "username": "Metrics Bot"
+    },
+    {
+      "type": "message",
+      "ts": "1730970240.000000",
+      "client_msg_id": "synthetic-1730970240-000000",
+      "text": "Bill Nguyen reproduced INC-2024-1107. Bill payment retries should use account 987654321 and routing 021000021 only in the secure vault.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_51392",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Bill Nguyen reproduced INC-2024-1107. Bill payment retries should use account 987654321 and routing 021000021 only in the secure vault."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U05BILL",
+      "user_profile": {
+        "avatar_hash": "h_u05bill",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/bill.nguyen_72.png",
+        "first_name": "Bill",
+        "real_name": "Bill Nguyen",
+        "display_name": "Bill Nguyen",
+        "team": "T_SYNTH_EXAM",
+        "name": "bill.nguyen",
+        "title": "Payments engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1730970240.000000",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1730970360.000000",
+      "reply_users": [
+        "U08FAITH",
+        "U09GRANT"
+      ],
+      "replies": [
+        {
+          "user": "U08FAITH",
+          "ts": "1730970300.000000"
+        },
+        {
+          "user": "U09GRANT",
+          "ts": "1730970360.000000"
+        }
+      ],
+      "is_locked": false,
+      "subscribed": true
+    },
+    {
+      "type": "message",
+      "ts": "1730970360.000000",
+      "client_msg_id": "synthetic-1730970360-000000",
+      "text": "Faith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a pasted support payload.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_92265",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Faith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a pasted support payload."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U08FAITH",
+      "user_profile": {
+        "avatar_hash": "h_u08faith",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/faith.morgan_72.png",
+        "first_name": "Faith",
+        "real_name": "Faith Morgan",
+        "display_name": "Faith Morgan",
+        "team": "T_SYNTH_EXAM",
+        "name": "faith.morgan",
+        "title": "Compliance lead",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1730970240.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1730970480.000000",
+      "client_msg_id": "synthetic-1730970480-000000",
+      "text": "Grant permission to the service account only after Mark Rivera rotates sk_live_51H8demoToken.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_78069",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grant permission to the service account only after Mark Rivera rotates sk_live_51H8demoToken."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U09GRANT",
+      "user_profile": {
+        "avatar_hash": "h_u09grant",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grant.lee_72.png",
+        "first_name": "Grant",
+        "real_name": "Grant Lee",
+        "display_name": "Grant Lee",
+        "team": "T_SYNTH_EXAM",
+        "name": "grant.lee",
+        "title": "Security engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      },
+      "thread_ts": "1730970240.000000",
+      "parent_user_id": "U01WILL"
+    },
+    {
+      "type": "message",
+      "ts": "1730970600.000000",
+      "client_msg_id": "synthetic-1730970600-000000",
+      "text": "Mark Rivera rotated the Stripe key and left a note for Grace Liu. Please mark this as SEV2 after validation.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_38830",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Mark Rivera rotated the Stripe key and left a note for Grace Liu. Please mark this as SEV2 after validation."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U04MARK",
+      "user_profile": {
+        "avatar_hash": "h_u04mark",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/mark.rivera_72.png",
+        "first_name": "Mark",
+        "real_name": "Mark Rivera",
+        "display_name": "Mark Rivera",
+        "team": "T_SYNTH_EXAM",
+        "name": "mark.rivera",
+        "title": "Infra engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1730970720.000000",
+      "client_msg_id": "synthetic-1730970720-000000",
+      "text": "Grace Liu: grace period calculations are wrong for Chase Bank bill pay users, but Chase Bank is the organization.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_74305",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Grace Liu: grace period calculations are wrong for Chase Bank bill pay users, but Chase Bank is the organization."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U02GRACE",
+      "user_profile": {
+        "avatar_hash": "h_u02grace",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/grace.liu_72.png",
+        "first_name": "Grace",
+        "real_name": "Grace Liu",
+        "display_name": "Grace Liu",
+        "team": "T_SYNTH_EXAM",
+        "name": "grace.liu",
+        "title": "ML engineer",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    },
+    {
+      "type": "message",
+      "ts": "1730970840.000000",
+      "client_msg_id": "synthetic-1730970840-000000",
+      "text": "Chase Kim will chase the vendor and confirm whether Chase Bank requires a new webhook.",
+      "team": "T_SYNTH_EXAM",
+      "user_team": "T_SYNTH_EXAM",
+      "source_team": "T_SYNTH_EXAM",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "b_51476",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "Chase Kim will chase the vendor and confirm whether Chase Bank requires a new webhook."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "user": "U10CHASE",
+      "user_profile": {
+        "avatar_hash": "h_u10chase",
+        "image_72": "https://avatars.slack-edge.com/2026-04-01/chase.kim_72.png",
+        "first_name": "Chase",
+        "real_name": "Chase Kim",
+        "display_name": "Chase Kim",
+        "team": "T_SYNTH_EXAM",
+        "name": "chase.kim",
+        "title": "Developer advocate",
+        "is_restricted": false,
+        "is_ultra_restricted": false
+      }
+    }
+  ]
