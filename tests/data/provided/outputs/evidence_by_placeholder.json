@@ -1,0 +1,1730 @@
+{
+  "[ADDRESS_1]": {
+    "kind": "ADDRESS",
+    "original_value": "Harborside Financial Center Plaza 5, 185 Hudson Street, Ste 1410, Jersey City, NJ 07311",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_3",
+        "context": "... LLC., Attention: Syndicate Department, Harborside Financial Center Plaza 5, 185 Hudson Street, Ste 1410, Jersey City, NJ 07311, by email at info@wallachbeth.com, or b..."
+      }
+    ]
+  },
+  "[ADDRESS_2]": {
+    "kind": "ADDRESS",
+    "original_value": "245 Park Ave, New York, NY 10167",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on April 10, 2026. Ari's email is ari.m..."
+      }
+    ]
+  },
+  "[AGE_1]": {
+    "kind": "AGE",
+    "original_value": "age 46",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_4",
+        "context": "... Officer, Chairman Tim Pickett, MPAS-C, age 46, is the founder and CEO since the Compa..."
+      }
+    ]
+  },
+  "[AGE_2]": {
+    "kind": "AGE",
+    "original_value": "age 55",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...stian Robinson Christian Robinson, CPA, age 55, is currently the Corporate Controller ..."
+      }
+    ]
+  },
+  "[AGE_3]": {
+    "kind": "AGE",
+    "original_value": "age 50",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...my Powell Amy Powell, MD, FACP, FAMSSM, age 50, is currently a Professor (Clinical) in..."
+      }
+    ]
+  },
+  "[AGE_4]": {
+    "kind": "AGE",
+    "original_value": "age 52",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Senior VP of National Compliance & ..."
+      }
+    ]
+  },
+  "[AGE_5]": {
+    "kind": "AGE",
+    "original_value": "47",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...ce, and business development. Adam Cox, 47, is a seasoned and dynamic leader focus..."
+      }
+    ]
+  },
+  "[AGE_6]": {
+    "kind": "AGE",
+    "original_value": "43",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...ions for expansion. Jared Barrera, MBA, 43, became CFO of KindlyMD\u2122on September 28..."
+      }
+    ]
+  },
+  "[API_TOKEN_1]": {
+    "kind": "API_TOKEN",
+    "original_value": "xoxb-1122-demo-token",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...node IP 10.24.18.77 and Slack bot token xoxb-1122-demo-token are pasted in the notes...."
+      }
+    ]
+  },
+  "[API_TOKEN_2]": {
+    "kind": "API_TOKEN",
+    "original_value": "sk_live_51H8demoToken",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "... account only after Mark Rivera rotates sk_live_51H8demoToken...."
+      }
+    ]
+  },
+  "[BANK_ACCOUNT_1]": {
+    "kind": "BANK_ACCOUNT",
+    "original_value": "987654321",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Bill payment retries should use account 987654321 and routing 021000021 only in the secur..."
+      }
+    ]
+  },
+  "[CREDIT_CARD_1]": {
+    "kind": "CREDIT_CARD",
+    "original_value": "4242 4242 4242 4242",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...23-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a pasted support payload...."
+      }
+    ]
+  },
+  "[EMAIL_1]": {
+    "kind": "EMAIL",
+    "original_value": "ari.mendoza@bioverse.example",
+    "redactions": [
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...ri Mendoza for approval before emailing ari.mendoza@bioverse.example...."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example...."
+      }
+    ]
+  },
+  "[EMAIL_2]": {
+    "kind": "EMAIL",
+    "original_value": "info@wallachbeth.com",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_3",
+        "context": "...410, Jersey City, NJ 07311, by email at info@wallachbeth.com, or by telephone at 646-237-8585. This ..."
+      }
+    ]
+  },
+  "[EMAIL_3]": {
+    "kind": "EMAIL",
+    "original_value": "investors@kindlymd.com",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_24",
+        "context": "...Thank you! For more information, email investors@kindlymd.com or visit kindlymd.com..."
+      }
+    ]
+  },
+  "[EMAIL_4]": {
+    "kind": "EMAIL",
+    "original_value": "rcho@bioverse.example",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...May Chen may invite Renee Cho at rcho@bioverse.example to the April review...."
+      }
+    ]
+  },
+  "[EMAIL_5]": {
+    "kind": "EMAIL",
+    "original_value": "elena.garcia@bioverse.example",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Dana Kim: Elena Garcia's email elena.garcia@bioverse.example should be removed from launch-brief-v7...."
+      }
+    ]
+  },
+  "[IP_ADDRESS_1]": {
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Potential leak in the draft: node IP 10.24.18.77 and Slack bot token xoxb-1122-demo-toke..."
+      }
+    ]
+  },
+  "[PASSPORT_1]": {
+    "kind": "PASSPORT",
+    "original_value": "P4319927",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Faith Morgan found passport P4319927 in a screenshot and opened risk-8842 fo..."
+      }
+    ]
+  },
+  "[PERSON_10]": {
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Rose Patel checked the graph: error volume rose 18..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Rose"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "rose.patel"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Rose Patel agrees the metric rose because returnin..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Rose"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "rose.patel"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Rose Patel said signups rose after Sam Lee at Nort..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Rose"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "rose.patel"
+      }
+    ]
+  },
+  "[PERSON_11]": {
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Bill Nguyen is fixing bill payment retries. Bill is..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Bill"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "bill.nguyen"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Bill Nguyen reproduced INC-2024-1107. Bill payment ..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Bill"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "bill.nguyen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Bill Nguyen says the KindlyMD deck should stay next..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Bill Nguyen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Bill"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "bill.nguyen"
+      }
+    ]
+  },
+  "[PERSON_12]": {
+    "kind": "PERSON",
+    "original_value": "Ari Mendoza",
+    "redactions": [
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Will Harper will ask Ari Mendoza for approval before emailing ari.mendoz..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on ..."
+      }
+    ]
+  },
+  "[PERSON_13]": {
+    "kind": "PERSON",
+    "original_value": "Elena Garcia",
+    "redactions": [
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Dana Kim: Elena Garcia's email elena.garcia@bioverse.example s..."
+      }
+    ]
+  },
+  "[PERSON_14]": {
+    "kind": "PERSON",
+    "original_value": "Tim Pickett",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_4",
+        "context": "...Tim Pickett Chief Executive Officer, Chairman Tim P..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_4",
+        "context": "...ckett Chief Executive Officer, Chairman Tim Pickett, MPAS-C, age 46, is the founder and CEO..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...O\ufb03cers & Directors Tim Pickett, MPAS-C Chief Executive Officer, Chairm..."
+      }
+    ]
+  },
+  "[PERSON_15]": {
+    "kind": "PERSON",
+    "original_value": "Steward Medical Group",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_4",
+        "context": "...ery, Trauma, and Emergency Medicine for Steward Medical Group\u2019s Physician Group of Utah from 2014 to ..."
+      }
+    ]
+  },
+  "[PERSON_16]": {
+    "kind": "PERSON",
+    "original_value": "Christian Robinson",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...18 Christian Robinson Christian Robinson, CPA, age 55, is cur..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...18 Christian Robinson Christian Robinson, CPA, age 55, is currently the Corporat..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...r Jared Barrera Chief Financial Officer Christian Robinson Corporate Controller Pave America Board..."
+      }
+    ]
+  },
+  "[PERSON_17]": {
+    "kind": "PERSON",
+    "original_value": "Pave America",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...s currently the Corporate Controller at Pave America. Prior to that he was Chief Financial O..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...Christian Robinson Corporate Controller Pave America Board Member Amy Powell, MD 26 Years Ex..."
+      }
+    ]
+  },
+  "[PERSON_18]": {
+    "kind": "PERSON",
+    "original_value": "Zion Pharmaceuticals, LLC",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "... that he was Chief Financial Officer of Zion Pharmaceuticals, LLC and Intrepid Biosciences, LLC group of ..."
+      }
+    ]
+  },
+  "[PERSON_19]": {
+    "kind": "PERSON",
+    "original_value": "Intrepid Biosciences, LLC",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...fficer of Zion Pharmaceuticals, LLC and Intrepid Biosciences, LLC group of companies. A licensed CPA for ..."
+      }
+    ]
+  },
+  "[PERSON_1]": {
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Will Harper: I started the Redis failover design re..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Will"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "will.harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Will"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "will.harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Will"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "will.harper"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Will Harper will ask Ari Mendoza for approval befor..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Will"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "will.harper"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New Yo..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Will Harper"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Will"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "will.harper"
+      }
+    ]
+  },
+  "[PERSON_20]": {
+    "kind": "PERSON",
+    "original_value": "Christian",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...nies. A licensed CPA for over 25 years, Christian worked as an auditor for Deloitte and t..."
+      }
+    ]
+  },
+  "[PERSON_21]": {
+    "kind": "PERSON",
+    "original_value": "Deloitte",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...ars, Christian worked as an auditor for Deloitte and then Ernst & Young, two of the larg..."
+      }
+    ]
+  },
+  "[PERSON_22]": {
+    "kind": "PERSON",
+    "original_value": "Ernst & Young",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...ked as an auditor for Deloitte and then Ernst & Young, two of the largest accounting \ufb01rms in ..."
+      }
+    ]
+  },
+  "[PERSON_23]": {
+    "kind": "PERSON",
+    "original_value": "Amy Powell",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...perience as well as in cannabis \ufb01nance. Amy Powell Amy Powell, MD, FACP, FAMSSM, age 50, i..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "... well as in cannabis \ufb01nance. Amy Powell Amy Powell, MD, FACP, FAMSSM, age 50, is currently..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...te Controller Pave America Board Member Amy Powell, MD 26 Years Experience Non-Surgical Sp..."
+      }
+    ]
+  },
+  "[PERSON_24]": {
+    "kind": "PERSON",
+    "original_value": "University of Utah",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...in the Department of Orthopedics at the University of Utah, where she has cared for people across ..."
+      }
+    ]
+  },
+  "[PERSON_25]": {
+    "kind": "PERSON",
+    "original_value": "Gary Seelhorst",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...ly bene\ufb01t patients served by KindlyMD\u2122. Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Sen..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...nts served by KindlyMD\u2122. Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Senior VP of Natio..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "... Medicine Board Member, Medical Advisor Gary Seelhorst Senior VP of National Compliance & Gove..."
+      }
+    ]
+  },
+  "[PERSON_26]": {
+    "kind": "PERSON",
+    "original_value": "Justice Grown",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...al Compliance & Governmental Affairs at Justice Grown, with a 25-year career in Pharmaceutica..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...al Compliance & Governmental Affairs at Justice Grown Board Member 19..."
+      }
+    ]
+  },
+  "[PERSON_27]": {
+    "kind": "PERSON",
+    "original_value": "Gary",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...\u2122, he applies his scienti\ufb01c background. Gary contributes extensive expertise in gove..."
+      }
+    ]
+  },
+  "[PERSON_28]": {
+    "kind": "PERSON",
+    "original_value": "Adam Cox",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "..., compliance, and business development. Adam Cox, 47, is a seasoned and dynamic leader f..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "... at Granger Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...PAS-C Chief Executive Officer, Chairman Adam Cox Chief Operating Officer, Director Jared..."
+      }
+    ]
+  },
+  "[PERSON_29]": {
+    "kind": "PERSON",
+    "original_value": "Steward Healthcare",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...operational efficiency. He stood out as Steward Healthcare\u2019s go-to expert for critical operations,..."
+      }
+    ]
+  },
+  "[PERSON_2]": {
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...ver design review for January 10, 2023. Grace Liu, can you sanity check the grace period ..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Grace"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "grace.liu"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...ated the Stripe key and left a note for Grace Liu. Please mark this as SEV2 after validat..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Grace Liu: grace period calculations are wrong fo..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Grace"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "grace.liu"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Grace Liu: the grace period cohort has lower chur..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Grace"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "grace.liu"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Grace Liu says we can say grace before the launch..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Grace"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "grace.liu"
+      }
+    ]
+  },
+  "[PERSON_30]": {
+    "kind": "PERSON",
+    "original_value": "Jared Barrera",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...f clinical IS operations for expansion. Jared Barrera, MBA, 43, became CFO of KindlyMD\u2122on Sep..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...er Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+      },
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_19",
+        "context": "...m Cox Chief Operating Officer, Director Jared Barrera Chief Financial Officer Christian Robin..."
+      }
+    ]
+  },
+  "[PERSON_31]": {
+    "kind": "PERSON",
+    "original_value": "Jared",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...nking, he brings a wealth of expertise. Jared\u2019s journey spans from Director of Financ..."
+      }
+    ]
+  },
+  "[PERSON_32]": {
+    "kind": "PERSON",
+    "original_value": "Physician Group of Utah",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...rney spans from Director of Finance for Physician Group of Utah (2015-2018) to Senior Manager of Revenu..."
+      }
+    ]
+  },
+  "[PERSON_33]": {
+    "kind": "PERSON",
+    "original_value": "Granger Medical Clinic",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_18",
+        "context": "...enue Cycle and Business Intelligence at Granger Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+      }
+    ]
+  },
+  "[PERSON_34]": {
+    "kind": "PERSON",
+    "original_value": "Ari",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "..., New York, NY 10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example..."
+      }
+    ]
+  },
+  "[PERSON_35]": {
+    "kind": "PERSON",
+    "original_value": "Renee Cho",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...May Chen may invite Renee Cho at rcho@bioverse.example to the April r..."
+      }
+    ]
+  },
+  "[PERSON_36]": {
+    "kind": "PERSON",
+    "original_value": "Nadia Petrova",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Mark Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive...."
+      }
+    ]
+  },
+  "[PERSON_37]": {
+    "kind": "PERSON",
+    "original_value": "Sam Lee",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Rose Patel said signups rose after Sam Lee at Northstar VC shared the page...."
+      }
+    ]
+  },
+  "[PERSON_38]": {
+    "kind": "PERSON",
+    "original_value": "Northstar VC",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...atel said signups rose after Sam Lee at Northstar VC shared the page...."
+      }
+    ]
+  },
+  "[PERSON_3]": {
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...race period section before I send it to Mark Rivera?..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Mark Rivera here. I will mark the migration task as..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Mark"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "mark.rivera"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...ssion to the service account only after Mark Rivera rotates sk_live_51H8demoToken...."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Mark Rivera rotated the Stripe key and left a note ..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Mark"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "mark.rivera"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Mark Rivera asked us to mark rows with exp_2024_061..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Mark"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "mark.rivera"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Mark Rivera will mark Nadia Petrova's phone +44 20 ..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Mark"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "mark.rivera"
+      }
+    ]
+  },
+  "[PERSON_4]": {
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Dana Kim added the rollback checklist. The dashb..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Dana"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "dana.kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Dana"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "dana.kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Dana"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "dana.kim"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Dana Kim: Elena Garcia's email elena.garcia@biov..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Dana Kim"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Dana"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "dana.kim"
+      }
+    ]
+  },
+  "[PERSON_5]": {
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Grant Lee will grant permission to prod only afte..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Grant"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "grant.lee"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Grant"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "grant.lee"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Grant Lee says grant-funded users should stay a s..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Grant"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "grant.lee"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Grant Lee will grant permission for the final exp..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Grant"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "grant.lee"
+      }
+    ]
+  },
+  "[PERSON_6]": {
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...ill grant permission to prod only after Faith Morgan signs off on the incident response word..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Faith Morgan reviewed it. Keep faith with the rollba..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Faith"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "faith.morgan"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Faith Morgan saw SSN 123-45-6789, tax id 12-3456789,..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Faith"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "faith.morgan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Faith Morgan wants the Q3 dashboard to mention North..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Faith"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "faith.morgan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Faith Morgan found passport P4319927 in a screenshot..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Faith"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "faith.morgan"
+      }
+    ]
+  },
+  "[PERSON_7]": {
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Hope Kaplan mocked up the observability page. I hop..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Hope"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "hope.kaplan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Hope Kaplan: I hope the chart labels do not turn ho..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Hope"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "hope.kaplan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...Hope Kaplan wrote \u201chope this helps\u201d in the PRD comm..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...e this helps\u201d in the PRD comments; only Hope Kaplan is a person...."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "Hope"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "hope.kaplan"
+      }
+    ]
+  },
+  "[PERSON_8]": {
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...Chase Kim can chase the webhook owner. Please do ..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "Chase"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "chase.kim"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Chase Kim will chase the vendor and confirm wheth..."
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.real_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.display_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.first_name",
+        "context": "Chase"
+      },
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "user_profile.username",
+        "context": "chase.kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Chase Kim compared Chase Bank referral traffic wi..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "Chase"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "chase.kim"
+      }
+    ]
+  },
+  "[PERSON_9]": {
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "redactions": [
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "text",
+        "context": "...May Chen may move the launch milestone from May ..."
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.real_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.display_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.first_name",
+        "context": "May"
+      },
+      {
+        "file": "architecture_2023-01-10.json",
+        "field": "user_profile.username",
+        "context": "may.chen"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...May Chen posted the June 12, 2024 retention anal..."
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.real_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.display_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.first_name",
+        "context": "May"
+      },
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "user_profile.username",
+        "context": "may.chen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "...May Chen may invite Renee Cho at rcho@bioverse.e..."
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.real_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.display_name",
+        "context": "May Chen"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.first_name",
+        "context": "May"
+      },
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "user_profile.username",
+        "context": "may.chen"
+      }
+    ]
+  },
+  "[PHONE_1]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "redactions": [
+      {
+        "file": "data-science_2024-06-12.json",
+        "field": "text",
+        "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis notes and flagged it fo..."
+      }
+    ]
+  },
+  "[PHONE_2]": {
+    "kind": "PHONE",
+    "original_value": "646-237-8585",
+    "redactions": [
+      {
+        "file": "kindlymd_investor_presentation_management.pdf",
+        "field": "page_3",
+        "context": "...nfo@wallachbeth.com, or by telephone at 646-237-8585. This presentation does not constitute ..."
+      }
+    ]
+  },
+  "[PHONE_3]": {
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "redactions": [
+      {
+        "file": "people-launch_2026-04-10.json",
+        "field": "text",
+        "context": "... Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive...."
+      }
+    ]
+  },
+  "[ROUTING_NUMBER_1]": {
+    "kind": "ROUTING_NUMBER",
+    "original_value": "021000021",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...hould use account 987654321 and routing 021000021 only in the secure vault...."
+      }
+    ]
+  },
+  "[SSN_1]": {
+    "kind": "SSN",
+    "original_value": "123-45-6789",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...Faith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 ..."
+      }
+    ]
+  },
+  "[TAX_ID_1]": {
+    "kind": "TAX_ID",
+    "original_value": "12-3456789",
+    "redactions": [
+      {
+        "file": "banking-bots_2024-11-07.json",
+        "field": "text",
+        "context": "...aith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a past..."
+      }
+    ]
+  }
+}

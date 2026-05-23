@@ -1,0 +1,852 @@
+{
+  "[ADDRESS_1]": {
+    "kind": "ADDRESS",
+    "original_value": "245 Park Ave, New York, NY 10167",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...am. He is based at our New York office: 245 Park Ave, New York, NY 10167.\nContact: will.harper@clearpath.example..."
+      }
+    ]
+  },
+  "[AGE_1]": {
+    "kind": "AGE",
+    "original_value": "age 34",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...55-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\nGrace built the churn-prediction model ..."
+      }
+    ]
+  },
+  "[AGE_2]": {
+    "kind": "AGE",
+    "original_value": "age 29",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...\n\n**Angel Reyes**, *Partnerships Lead*, age 29\nAngel manages relationships with angel ..."
+      }
+    ]
+  },
+  "[AGE_3]": {
+    "kind": "AGE",
+    "original_value": "age 32",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...\n\n**Max Schultz**, *Platform Engineer*, age 32\nMax Schultz monitors system throughput ..."
+      }
+    ]
+  },
+  "[API_TOKEN_1]": {
+    "kind": "API_TOKEN",
+    "original_value": "sk_live_51H8demoToken",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Summary",
+        "context": "...## Summary\n\n\nA live Stripe secret key (`sk_live_51H8demoToken`) was committed to the public repositor..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...| 08:14      | scanner      | Detected `sk_live_51H8demoToken` in commit abc1234                 |\n| ..."
+      }
+    ]
+  },
+  "[API_TOKEN_2]": {
+    "kind": "API_TOKEN",
+    "original_value": "xoxb-1122-demo-token",
+    "redactions": [
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...se the IP owner for confirmation. Token xoxb-1122-demo-token was also exposed in the build logs...."
+      }
+    ]
+  },
+  "[EMAIL_1]": {
+    "kind": "EMAIL",
+    "original_value": "hr@acmecorp.example",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...passport P9876543. Notification sent to hr@acmecorp.example...."
+      }
+    ]
+  },
+  "[EMAIL_2]": {
+    "kind": "EMAIL",
+    "original_value": "mark.rivera@clearpath.example",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...Mark Rivera   | Token rotation        | mark.rivera@clearpath.example         |\n| Grant Lee     | Repo access..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "... +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clearpath.example     | +1 646-555-0231   |\n| Bill Nguyen..."
+      }
+    ]
+  },
+  "[EMAIL_3]": {
+    "kind": "EMAIL",
+    "original_value": "grant.lee@clearpath.example",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...Grant Lee     | Repo access           | grant.lee@clearpath.example           |\n| Faith Morgan  | Complianc..."
+      }
+    ]
+  },
+  "[EMAIL_4]": {
+    "kind": "EMAIL",
+    "original_value": "faith.morgan@clearpath.example",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...Faith Morgan  | Compliance lead       | faith.morgan@clearpath.example        |\n| Grace Liu     | ML pipeline ..."
+      }
+    ]
+  },
+  "[EMAIL_5]": {
+    "kind": "EMAIL",
+    "original_value": "grace.liu@clearpath.example",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...Grace Liu     | ML pipeline audit     | grace.liu@clearpath.example           |\n\n---..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "... +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearpath.example       | +1 646-555-0198   |\n| Mark Rive..."
+      }
+    ]
+  },
+  "[EMAIL_6]": {
+    "kind": "EMAIL",
+    "original_value": "will.harper@clearpath.example",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... Park Ave, New York, NY 10167.\nContact: will.harper@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML E..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...-------------------|\n| Will Harper    | will.harper@clearpath.example     | +1 646-555-0142   |\n| Grace Liu  ..."
+      }
+    ]
+  },
+  "[EMAIL_7]": {
+    "kind": "EMAIL",
+    "original_value": "max.schultz@clearpath.example",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...n,\nthe auto-scaler pages Max Schultz at max.schultz@clearpath.example or +44 20 7946 0958.\nCapacity alerts fi..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "... +1 646-555-0187   |\n| Max Schultz    | max.schultz@clearpath.example     | +44 20 7946 0958  |\n| HR inquirie..."
+      }
+    ]
+  },
+  "[EMAIL_8]": {
+    "kind": "EMAIL",
+    "original_value": "bill.nguyen@clearpath.example",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...'s queue. Bill Nguyen can be reached at\nbill.nguyen@clearpath.example.\n\n---..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "... +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clearpath.example     | +1 646-555-0187   |\n| Max Schultz..."
+      }
+    ]
+  },
+  "[EMAIL_9]": {
+    "kind": "EMAIL",
+    "original_value": "hr@clearpath.example",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "... +44 20 7946 0958  |\n| HR inquiries   | hr@clearpath.example              | +1 646-555-0100   |..."
+      }
+    ]
+  },
+  "[IP_ADDRESS_1]": {
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Technical Details",
+        "context": "...tails\n\n\nScanner traffic originated from 10.24.18.77 and 192.168.4.12. Both IPs are external..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Technical Details",
+        "context": "... authenticated API calls were made from\n10.24.18.77 using the exposed key between 08:14 and..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...ALERT: Suspicious login from 10.24.18.77 on 2024-09-05. Incident INC-2024-0905 o..."
+      }
+    ]
+  },
+  "[IP_ADDRESS_2]": {
+    "kind": "IP_ADDRESS",
+    "original_value": "192.168.4.12",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Technical Details",
+        "context": "...traffic originated from 10.24.18.77 and 192.168.4.12. Both IPs are external and\ndo not match..."
+      }
+    ]
+  },
+  "[PASSPORT_1]": {
+    "kind": "PASSPORT",
+    "original_value": "P9876543",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": ".... On file: SSN 123-45-6789 and passport P9876543. Notification sent to hr@acmecorp.examp..."
+      }
+    ]
+  },
+  "[PASSPORT_2]": {
+    "kind": "PASSPORT",
+    "original_value": "P4319927",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...gnups rose by four this month. Passport P4319927 is filed for the new hire's I-9...."
+      }
+    ]
+  },
+  "[PERSON_10]": {
+    "kind": "PERSON",
+    "original_value": "Meridian Bank",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... late fees\nby 22%. Grace joined us from Meridian Bank's data science group.\n\n**Mark Rivera**,..."
+      }
+    ]
+  },
+  "[PERSON_11]": {
+    "kind": "PERSON",
+    "original_value": "Steward Healthcare",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... Mark Rivera directly.\nMark joined from Steward Healthcare's cloud infrastructure division.\n\n**Ang..."
+      }
+    ]
+  },
+  "[PERSON_12]": {
+    "kind": "PERSON",
+    "original_value": "Angel Reyes",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...are's cloud infrastructure division.\n\n**Angel Reyes**, *Partnerships Lead*, age 29\nAngel ma..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...dashboard was built at Angel's request; Angel Reyes is the primary contact for\nall angel-ro..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Product Glossary",
+        "context": "...ge equity funding from angel investors. Angel Reyes coordinates\nall angel-round communicati..."
+      }
+    ]
+  },
+  "[PERSON_13]": {
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...ce and angel-investor update emails.\n\n**Max Schultz**, *Platform Engineer*, age 32\nMax Schu..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... Schultz**, *Platform Engineer*, age 32\nMax Schultz monitors system throughput and capacity..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... max utilization,\nthe auto-scaler pages Max Schultz at max.schultz@clearpath.example or +44..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Product Glossary",
+        "context": "...not confuse max throughput metrics with\nMax Schultz's weekly capacity review reports.\n\n---..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...ath.example     | +1 646-555-0187   |\n| Max Schultz    | max.schultz@clearpath.example     ..."
+      }
+    ]
+  },
+  "[PERSON_14]": {
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...put; Max reviews them every morning.\n\n**Bill Nguyen**, *Payments Engineer*\nBill owns the AC..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...e system logs an event in Bill's queue. Bill Nguyen can be reached at\nbill.nguyen@clearpath..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Product Glossary",
+        "context": "...om\nthe customer's linked account. Note: Bill Nguyen's payments module handles all bill paym..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...ath.example     | +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clearpath.example     ..."
+      }
+    ]
+  },
+  "[PERSON_1]": {
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...Rose Patel here \u2014 new hire signups rose by four th..."
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.real_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.display_name",
+        "context": "Rose Patel"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.first_name",
+        "context": "Rose"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.username",
+        "context": "rose.patel"
+      }
+    ]
+  },
+  "[PERSON_2]": {
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...Hope Kaplan here. I hope the summer intern paperwor..."
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.real_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.display_name",
+        "context": "Hope Kaplan"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.first_name",
+        "context": "Hope"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.username",
+        "context": "hope.kaplan"
+      }
+    ]
+  },
+  "[PERSON_3]": {
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...Grant Lee approved the offer. We will grant them ..."
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.real_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.display_name",
+        "context": "Grant Lee"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.first_name",
+        "context": "Grant"
+      },
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "user_profile.username",
+        "context": "grant.lee"
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...ook as disabled        |\n| 08:41      | Grant Lee    | Granted emergency repo access to p..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...rk.rivera@clearpath.example         |\n| Grant Lee     | Repo access           | grant.lee..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Action Items",
+        "context": "...irmation of no secondary exposure.\n2. **Grant Lee** \u2014 grant the security team read-only a..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## IT Access Policy",
+        "context": "...n access, open a Jira ticket tagged for Grant Lee. Grant Lee will\nreview the request and ..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## IT Access Policy",
+        "context": "...pen a Jira ticket tagged for Grant Lee. Grant Lee will\nreview the request and grant the m..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## IT Access Policy",
+        "context": "...ccess\nwithout documented justification; Grant Lee must approve any access beyond read-onl..."
+      }
+    ]
+  },
+  "[PERSON_4]": {
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "# Post-Mortem: INC-2024-1209 \u2014 Stripe Token Exposure",
+        "context": "...e:** 2024-12-09\n**Incident commander:** Chase Kim\n**Status:** Resolved\n\n---..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Summary",
+        "context": "...approximately 4 hours before detection.\nChase Kim led the response. The key was revoked, ..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...9      | PagerDuty    | Alert routed to Chase Kim                                        ..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...                       |\n| 08:22      | Chase Kim    | Confirmed exposure; began to chase..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...xposed key             |\n| 10:18      | Chase Kim    | Closed INC-2024-1209 after all rem..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...------------------------------------|\n| Chase Kim     | Incident commander    | +1 646-55..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Action Items",
+        "context": "...## Action Items\n\n\n1. **Chase Kim** \u2014 chase all third-party vendors for c..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## What Went Well",
+        "context": "...ntervention.\n- On-call rotation reached Chase Kim within 5 minutes of the alert.\n- The gr..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...Chase Kim here \u2014 I will chase the IP owner for co..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.real_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.display_name",
+        "context": "Chase Kim"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.first_name",
+        "context": "Chase"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.username",
+        "context": "chase.kim"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...\u2014 please mark the incident as SEV1 once Chase Kim confirms scope. Mark Rivera signing off..."
+      }
+    ]
+  },
+  "[PERSON_5]": {
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...istory                 |\n| 08:55      | Faith Morgan | Logged SSN 123-45-6789 found in a sup..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...ant.lee@clearpath.example           |\n| Faith Morgan  | Compliance lead       | faith.morgan..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Action Items",
+        "context": "...tion rules are enforced in GitHub.\n4. **Faith Morgan** \u2014 verify the grace period for mandato..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...Faith Morgan reached the vendor \u2014 primary line +44 2..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.real_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.display_name",
+        "context": "Faith Morgan"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.first_name",
+        "context": "Faith"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.username",
+        "context": "faith.morgan"
+      }
+    ]
+  },
+  "[PERSON_6]": {
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...ream API callers       |\n| 08:35      | Mark Rivera  | Revoked key in Stripe; marked the St..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "... 646-555-0142                       |\n| Mark Rivera   | Token rotation        | mark.rivera..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Action Items",
+        "context": "...ant the minimum viable scope only.\n3. **Mark Rivera** \u2014 mark the secrets-scanning CI step a..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "... as SEV1 once Chase Kim confirms scope. Mark Rivera signing off...."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.real_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.display_name",
+        "context": "Mark Rivera"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.first_name",
+        "context": "Mark"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.username",
+        "context": "mark.rivera"
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "... Meridian Bank's data science group.\n\n**Mark Rivera**, *Infrastructure Engineer*\nMark owns ..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...ent,\nmark the Jira ticket SEV1 and page Mark Rivera directly.\nMark joined from Steward Heal..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## IT Access Policy",
+        "context": "...osed while a rollback is still pending. Mark Rivera's runbook\ndescribes the verification ch..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...h.example       | +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clearpath.example     ..."
+      }
+    ]
+  },
+  "[PERSON_7]": {
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "...ket CC'd to the webhook|\n| 09:03      | Grace Liu    | Confirmed no ML pipelines had inge..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...ith.morgan@clearpath.example        |\n| Grace Liu     | ML pipeline audit     | grace.liu..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...ns is 48 hours per our rotation policy. Grace Liu out...."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.real_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.display_name",
+        "context": "Grace Liu"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.first_name",
+        "context": "Grace"
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "user_profile.username",
+        "context": "grace.liu"
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\nGrace built th..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Product Glossary",
+        "context": "... date during which no late fee accrues.\nGrace Liu's cohort research showed that shortenin..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...ath.example     | +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearpath.example     ..."
+      }
+    ]
+  },
+  "[PERSON_8]": {
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...## Team Bios\n\n\n**Will Harper**, *Product Lead*\nWill joined Clearpath..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...----------------|-------------------|\n| Will Harper    | will.harper@clearpath.example     ..."
+      }
+    ]
+  },
+  "[PERSON_9]": {
+    "kind": "PERSON",
+    "original_value": "Pinnacle Payments",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...roduct Lead*\nWill joined Clearpath from Pinnacle Payments, where he led the bill payment integrat..."
+      }
+    ]
+  },
+  "[PHONE_1]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "redactions": [
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Responder Contact Log",
+        "context": "...Chase Kim     | Incident commander    | +1 646-555-0142                       |\n| Mark Rivera  ..."
+      },
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...rimary line +44 20 7946 0958, US backup +1 646-555-0142...."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...Contact: will.harper@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\n..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | will.harper@clearpath.example     | +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearp..."
+      }
+    ]
+  },
+  "[PHONE_2]": {
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "redactions": [
+      {
+        "file": "security-incidents_2024-09-05.json",
+        "field": "text",
+        "context": "...organ reached the vendor \u2014 primary line +44 20 7946 0958, US backup +1 646-555-0142...."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Team Bios",
+        "context": "...ltz at max.schultz@clearpath.example or +44 20 7946 0958.\nCapacity alerts fire at 80% of max thr..."
+      },
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | max.schultz@clearpath.example     | +44 20 7946 0958  |\n| HR inquiries   | hr@clearpath.exam..."
+      }
+    ]
+  },
+  "[PHONE_3]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0198",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | grace.liu@clearpath.example       | +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clea..."
+      }
+    ]
+  },
+  "[PHONE_4]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0231",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | mark.rivera@clearpath.example     | +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clea..."
+      }
+    ]
+  },
+  "[PHONE_5]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0187",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | bill.nguyen@clearpath.example     | +1 646-555-0187   |\n| Max Schultz    | max.schultz@clea..."
+      }
+    ]
+  },
+  "[PHONE_6]": {
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0100",
+    "redactions": [
+      {
+        "file": "team-handbook.md",
+        "field": "## Contact Directory",
+        "context": "...  | hr@clearpath.example              | +1 646-555-0100   |..."
+      }
+    ]
+  },
+  "[SSN_1]": {
+    "kind": "SSN",
+    "original_value": "123-45-6789",
+    "redactions": [
+      {
+        "file": "hr-onboarding_2025-01-20.json",
+        "field": "text",
+        "context": "...I-9 verification complete. On file: SSN 123-45-6789 and passport P9876543. Notification sen..."
+      },
+      {
+        "file": "incident-postmortem.md",
+        "field": "## Timeline",
+        "context": "... 08:55      | Faith Morgan | Logged SSN 123-45-6789 found in a support ticket CC'd to the w..."
+      }
+    ]
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "channel": "security-incidents_2024-09-05",
+  "messages": [
+    {
+      "ts": "1725494400.000000",
+      "user_id": null,
+      "bot_id": "B_SYNTH_SECURITY",
+      "text": "ALERT: Suspicious login from [IP_ADDRESS_1] on 2024-09-05. Incident INC-2024-0905 opened."
+    },
+    {
+      "ts": "1725494520.000000",
+      "user_id": "[SLACK_USER_ID_4]",
+      "bot_id": null,
+      "text": "[PERSON_4] here \u2014 I will chase the IP owner for confirmation. Token [API_TOKEN_2] was also exposed in the build logs.",
+      "user_profile": {
+        "real_name": "[PERSON_4]",
+        "display_name": "[PERSON_4]",
+        "first_name": "[PERSON_4]",
+        "username": "[PERSON_4]",
+        "title": "Developer advocate",
+        "avatar_hash": "[AVATAR_HASH_4]"
+      }
+    },
+    {
+      "ts": "1725494640.000000",
+      "user_id": "[SLACK_USER_ID_5]",
+      "bot_id": null,
+      "text": "[PERSON_5] reached the vendor \u2014 primary line [PHONE_2], US backup [PHONE_1].",
+      "user_profile": {
+        "real_name": "[PERSON_5]",
+        "display_name": "[PERSON_5]",
+        "first_name": "[PERSON_5]",
+        "username": "[PERSON_5]",
+        "title": "Compliance lead",
+        "avatar_hash": "[AVATAR_HASH_5]"
+      }
+    },
+    {
+      "ts": "1725494760.000000",
+      "user_id": "[SLACK_USER_ID_6]",
+      "bot_id": null,
+      "text": "@here \u2014 please mark the incident as SEV1 once [PERSON_4] confirms scope. [PERSON_6] signing off.",
+      "user_profile": {
+        "real_name": "[PERSON_6]",
+        "display_name": "[PERSON_6]",
+        "first_name": "[PERSON_6]",
+        "username": "[PERSON_6]",
+        "title": "Infra engineer",
+        "avatar_hash": "[AVATAR_HASH_6]"
+      }
+    },
+    {
+      "ts": "1725494880.000000",
+      "user_id": "[SLACK_USER_ID_7]",
+      "bot_id": null,
+      "text": "Reminder: the grace period for expired tokens is 48 hours per our rotation policy. [PERSON_7] out.",
+      "user_profile": {
+        "real_name": "[PERSON_7]",
+        "display_name": "[PERSON_7]",
+        "first_name": "[PERSON_7]",
+        "username": "[PERSON_7]",
+        "title": "ML engineer",
+        "avatar_hash": "[AVATAR_HASH_7]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+[
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "SSN",
+    "original_value": "123-45-6789",
+    "placeholder": "[SSN_1]",
+    "context": "...I-9 verification complete. On file: SSN 123-45-6789 and passport P9876543. Notification sen..."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "PASSPORT",
+    "original_value": "P9876543",
+    "placeholder": "[PASSPORT_1]",
+    "context": ".... On file: SSN 123-45-6789 and passport P9876543. Notification sent to hr@acmecorp.examp..."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "EMAIL",
+    "original_value": "hr@acmecorp.example",
+    "placeholder": "[EMAIL_1]",
+    "context": "...passport P9876543. Notification sent to hr@acmecorp.example...."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_1]",
+    "context": "...Rose Patel here \u2014 new hire signups rose by four th..."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "PASSPORT",
+    "original_value": "P4319927",
+    "placeholder": "[PASSPORT_2]",
+    "context": "...gnups rose by four this month. Passport P4319927 is filed for the new hire's I-9...."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_1]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_1]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Rose",
+    "placeholder": "[PERSON_1]",
+    "context": "Rose"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "rose.patel",
+    "placeholder": "[PERSON_1]",
+    "context": "rose.patel"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_2]",
+    "context": "...Hope Kaplan here. I hope the summer intern paperwor..."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_2]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_2]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Hope",
+    "placeholder": "[PERSON_2]",
+    "context": "Hope"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "hope.kaplan",
+    "placeholder": "[PERSON_2]",
+    "context": "hope.kaplan"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...Grant Lee approved the offer. We will grant them ..."
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grant",
+    "placeholder": "[PERSON_3]",
+    "context": "Grant"
+  },
+  {
+    "file": "hr-onboarding_2025-01-20.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grant.lee",
+    "placeholder": "[PERSON_3]",
+    "context": "grant.lee"
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "# Post-Mortem: INC-2024-1209 \u2014 Stripe Token Exposure",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...e:** 2024-12-09\n**Incident commander:** Chase Kim\n**Status:** Resolved\n\n---..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Summary",
+    "kind": "API_TOKEN",
+    "original_value": "sk_live_51H8demoToken",
+    "placeholder": "[API_TOKEN_1]",
+    "context": "...## Summary\n\n\nA live Stripe secret key (`sk_live_51H8demoToken`) was committed to the public repositor..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Summary",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...approximately 4 hours before detection.\nChase Kim led the response. The key was revoked, ..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "API_TOKEN",
+    "original_value": "sk_live_51H8demoToken",
+    "placeholder": "[API_TOKEN_1]",
+    "context": "...| 08:14      | scanner      | Detected `sk_live_51H8demoToken` in commit abc1234                 |\n| ..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...9      | PagerDuty    | Alert routed to Chase Kim                                        ..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...                       |\n| 08:22      | Chase Kim    | Confirmed exposure; began to chase..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "...ream API callers       |\n| 08:35      | Mark Rivera  | Revoked key in Stripe; marked the St..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...ook as disabled        |\n| 08:41      | Grant Lee    | Granted emergency repo access to p..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "...istory                 |\n| 08:55      | Faith Morgan | Logged SSN 123-45-6789 found in a sup..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "SSN",
+    "original_value": "123-45-6789",
+    "placeholder": "[SSN_1]",
+    "context": "... 08:55      | Faith Morgan | Logged SSN 123-45-6789 found in a support ticket CC'd to the w..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "...ket CC'd to the webhook|\n| 09:03      | Grace Liu    | Confirmed no ML pipelines had inge..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Timeline",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...xposed key             |\n| 10:18      | Chase Kim    | Closed INC-2024-1209 after all rem..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Technical Details",
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "placeholder": "[IP_ADDRESS_1]",
+    "context": "...tails\n\n\nScanner traffic originated from 10.24.18.77 and 192.168.4.12. Both IPs are external..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Technical Details",
+    "kind": "IP_ADDRESS",
+    "original_value": "192.168.4.12",
+    "placeholder": "[IP_ADDRESS_2]",
+    "context": "...traffic originated from 10.24.18.77 and 192.168.4.12. Both IPs are external and\ndo not match..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Technical Details",
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "placeholder": "[IP_ADDRESS_1]",
+    "context": "... authenticated API calls were made from\n10.24.18.77 using the exposed key between 08:14 and..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...------------------------------------|\n| Chase Kim     | Incident commander    | +1 646-55..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "placeholder": "[PHONE_1]",
+    "context": "...Chase Kim     | Incident commander    | +1 646-555-0142                       |\n| Mark Rivera  ..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "... 646-555-0142                       |\n| Mark Rivera   | Token rotation        | mark.rivera..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "EMAIL",
+    "original_value": "mark.rivera@clearpath.example",
+    "placeholder": "[EMAIL_2]",
+    "context": "...Mark Rivera   | Token rotation        | mark.rivera@clearpath.example         |\n| Grant Lee     | Repo access..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...rk.rivera@clearpath.example         |\n| Grant Lee     | Repo access           | grant.lee..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "EMAIL",
+    "original_value": "grant.lee@clearpath.example",
+    "placeholder": "[EMAIL_3]",
+    "context": "...Grant Lee     | Repo access           | grant.lee@clearpath.example           |\n| Faith Morgan  | Complianc..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "...ant.lee@clearpath.example           |\n| Faith Morgan  | Compliance lead       | faith.morgan..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "EMAIL",
+    "original_value": "faith.morgan@clearpath.example",
+    "placeholder": "[EMAIL_4]",
+    "context": "...Faith Morgan  | Compliance lead       | faith.morgan@clearpath.example        |\n| Grace Liu     | ML pipeline ..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "...ith.morgan@clearpath.example        |\n| Grace Liu     | ML pipeline audit     | grace.liu..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Responder Contact Log",
+    "kind": "EMAIL",
+    "original_value": "grace.liu@clearpath.example",
+    "placeholder": "[EMAIL_5]",
+    "context": "...Grace Liu     | ML pipeline audit     | grace.liu@clearpath.example           |\n\n---..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Action Items",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...## Action Items\n\n\n1. **Chase Kim** \u2014 chase all third-party vendors for c..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Action Items",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...irmation of no secondary exposure.\n2. **Grant Lee** \u2014 grant the security team read-only a..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Action Items",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "...ant the minimum viable scope only.\n3. **Mark Rivera** \u2014 mark the secrets-scanning CI step a..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## Action Items",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "...tion rules are enforced in GitHub.\n4. **Faith Morgan** \u2014 verify the grace period for mandato..."
+  },
+  {
+    "file": "incident-postmortem.md",
+    "field": "## What Went Well",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...ntervention.\n- On-call rotation reached Chase Kim within 5 minutes of the alert.\n- The gr..."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "placeholder": "[IP_ADDRESS_1]",
+    "context": "...ALERT: Suspicious login from 10.24.18.77 on 2024-09-05. Incident INC-2024-0905 o..."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...Chase Kim here \u2014 I will chase the IP owner for co..."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "API_TOKEN",
+    "original_value": "xoxb-1122-demo-token",
+    "placeholder": "[API_TOKEN_2]",
+    "context": "...se the IP owner for confirmation. Token xoxb-1122-demo-token was also exposed in the build logs...."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Chase",
+    "placeholder": "[PERSON_4]",
+    "context": "Chase"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "chase.kim",
+    "placeholder": "[PERSON_4]",
+    "context": "chase.kim"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "...Faith Morgan reached the vendor \u2014 primary line +44 2..."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "placeholder": "[PHONE_2]",
+    "context": "...organ reached the vendor \u2014 primary line +44 20 7946 0958, US backup +1 646-555-0142...."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "placeholder": "[PHONE_1]",
+    "context": "...rimary line +44 20 7946 0958, US backup +1 646-555-0142...."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Faith",
+    "placeholder": "[PERSON_5]",
+    "context": "Faith"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "faith.morgan",
+    "placeholder": "[PERSON_5]",
+    "context": "faith.morgan"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...\u2014 please mark the incident as SEV1 once Chase Kim confirms scope. Mark Rivera signing off..."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "... as SEV1 once Chase Kim confirms scope. Mark Rivera signing off...."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Mark",
+    "placeholder": "[PERSON_6]",
+    "context": "Mark"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "mark.rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "mark.rivera"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "...ns is 48 hours per our rotation policy. Grace Liu out...."
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grace",
+    "placeholder": "[PERSON_7]",
+    "context": "Grace"
+  },
+  {
+    "file": "security-incidents_2024-09-05.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grace.liu",
+    "placeholder": "[PERSON_7]",
+    "context": "grace.liu"
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_8]",
+    "context": "...## Team Bios\n\n\n**Will Harper**, *Product Lead*\nWill joined Clearpath..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Pinnacle Payments",
+    "placeholder": "[PERSON_9]",
+    "context": "...roduct Lead*\nWill joined Clearpath from Pinnacle Payments, where he led the bill payment integrat..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "ADDRESS",
+    "original_value": "245 Park Ave, New York, NY 10167",
+    "placeholder": "[ADDRESS_1]",
+    "context": "...am. He is based at our New York office: 245 Park Ave, New York, NY 10167.\nContact: will.harper@clearpath.example..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "EMAIL",
+    "original_value": "will.harper@clearpath.example",
+    "placeholder": "[EMAIL_6]",
+    "context": "... Park Ave, New York, NY 10167.\nContact: will.harper@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML E..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "placeholder": "[PHONE_1]",
+    "context": "...Contact: will.harper@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\n..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "...@clearpath.example, +1 646-555-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\nGrace built th..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "AGE",
+    "original_value": "age 34",
+    "placeholder": "[AGE_1]",
+    "context": "...55-0142.\n\n**Grace Liu**, *ML Engineer*, age 34\nGrace built the churn-prediction model ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Meridian Bank",
+    "placeholder": "[PERSON_10]",
+    "context": "... late fees\nby 22%. Grace joined us from Meridian Bank's data science group.\n\n**Mark Rivera**,..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "... Meridian Bank's data science group.\n\n**Mark Rivera**, *Infrastructure Engineer*\nMark owns ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "...ent,\nmark the Jira ticket SEV1 and page Mark Rivera directly.\nMark joined from Steward Heal..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Steward Healthcare",
+    "placeholder": "[PERSON_11]",
+    "context": "... Mark Rivera directly.\nMark joined from Steward Healthcare's cloud infrastructure division.\n\n**Ang..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Angel Reyes",
+    "placeholder": "[PERSON_12]",
+    "context": "...are's cloud infrastructure division.\n\n**Angel Reyes**, *Partnerships Lead*, age 29\nAngel ma..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "AGE",
+    "original_value": "age 29",
+    "placeholder": "[AGE_2]",
+    "context": "...\n\n**Angel Reyes**, *Partnerships Lead*, age 29\nAngel manages relationships with angel ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Angel Reyes",
+    "placeholder": "[PERSON_12]",
+    "context": "...dashboard was built at Angel's request; Angel Reyes is the primary contact for\nall angel-ro..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "placeholder": "[PERSON_13]",
+    "context": "...ce and angel-investor update emails.\n\n**Max Schultz**, *Platform Engineer*, age 32\nMax Schu..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "AGE",
+    "original_value": "age 32",
+    "placeholder": "[AGE_3]",
+    "context": "...\n\n**Max Schultz**, *Platform Engineer*, age 32\nMax Schultz monitors system throughput ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "placeholder": "[PERSON_13]",
+    "context": "... Schultz**, *Platform Engineer*, age 32\nMax Schultz monitors system throughput and capacity..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "placeholder": "[PERSON_13]",
+    "context": "... max utilization,\nthe auto-scaler pages Max Schultz at max.schultz@clearpath.example or +44..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "EMAIL",
+    "original_value": "max.schultz@clearpath.example",
+    "placeholder": "[EMAIL_7]",
+    "context": "...n,\nthe auto-scaler pages Max Schultz at max.schultz@clearpath.example or +44 20 7946 0958.\nCapacity alerts fi..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "placeholder": "[PHONE_2]",
+    "context": "...ltz at max.schultz@clearpath.example or +44 20 7946 0958.\nCapacity alerts fire at 80% of max thr..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_14]",
+    "context": "...put; Max reviews them every morning.\n\n**Bill Nguyen**, *Payments Engineer*\nBill owns the AC..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_14]",
+    "context": "...e system logs an event in Bill's queue. Bill Nguyen can be reached at\nbill.nguyen@clearpath..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Team Bios",
+    "kind": "EMAIL",
+    "original_value": "bill.nguyen@clearpath.example",
+    "placeholder": "[EMAIL_8]",
+    "context": "...'s queue. Bill Nguyen can be reached at\nbill.nguyen@clearpath.example.\n\n---..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Product Glossary",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_14]",
+    "context": "...om\nthe customer's linked account. Note: Bill Nguyen's payments module handles all bill paym..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Product Glossary",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "... date during which no late fee accrues.\nGrace Liu's cohort research showed that shortenin..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Product Glossary",
+    "kind": "PERSON",
+    "original_value": "Angel Reyes",
+    "placeholder": "[PERSON_12]",
+    "context": "...ge equity funding from angel investors. Angel Reyes coordinates\nall angel-round communicati..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Product Glossary",
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "placeholder": "[PERSON_13]",
+    "context": "...not confuse max throughput metrics with\nMax Schultz's weekly capacity review reports.\n\n---..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## IT Access Policy",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...n access, open a Jira ticket tagged for Grant Lee. Grant Lee will\nreview the request and ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## IT Access Policy",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...pen a Jira ticket tagged for Grant Lee. Grant Lee will\nreview the request and grant the m..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## IT Access Policy",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_3]",
+    "context": "...ccess\nwithout documented justification; Grant Lee must approve any access beyond read-onl..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## IT Access Policy",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "...osed while a rollback is still pending. Mark Rivera's runbook\ndescribes the verification ch..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_8]",
+    "context": "...----------------|-------------------|\n| Will Harper    | will.harper@clearpath.example     ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "will.harper@clearpath.example",
+    "placeholder": "[EMAIL_6]",
+    "context": "...-------------------|\n| Will Harper    | will.harper@clearpath.example     | +1 646-555-0142   |\n| Grace Liu  ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "placeholder": "[PHONE_1]",
+    "context": "...  | will.harper@clearpath.example     | +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearp..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_7]",
+    "context": "...ath.example     | +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearpath.example     ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "grace.liu@clearpath.example",
+    "placeholder": "[EMAIL_5]",
+    "context": "... +1 646-555-0142   |\n| Grace Liu      | grace.liu@clearpath.example       | +1 646-555-0198   |\n| Mark Rive..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0198",
+    "placeholder": "[PHONE_3]",
+    "context": "...  | grace.liu@clearpath.example       | +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clea..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_6]",
+    "context": "...h.example       | +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clearpath.example     ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "mark.rivera@clearpath.example",
+    "placeholder": "[EMAIL_2]",
+    "context": "... +1 646-555-0198   |\n| Mark Rivera    | mark.rivera@clearpath.example     | +1 646-555-0231   |\n| Bill Nguyen..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0231",
+    "placeholder": "[PHONE_4]",
+    "context": "...  | mark.rivera@clearpath.example     | +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clea..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_14]",
+    "context": "...ath.example     | +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clearpath.example     ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "bill.nguyen@clearpath.example",
+    "placeholder": "[EMAIL_8]",
+    "context": "... +1 646-555-0231   |\n| Bill Nguyen    | bill.nguyen@clearpath.example     | +1 646-555-0187   |\n| Max Schultz..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0187",
+    "placeholder": "[PHONE_5]",
+    "context": "...  | bill.nguyen@clearpath.example     | +1 646-555-0187   |\n| Max Schultz    | max.schultz@clea..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PERSON",
+    "original_value": "Max Schultz",
+    "placeholder": "[PERSON_13]",
+    "context": "...ath.example     | +1 646-555-0187   |\n| Max Schultz    | max.schultz@clearpath.example     ..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "max.schultz@clearpath.example",
+    "placeholder": "[EMAIL_7]",
+    "context": "... +1 646-555-0187   |\n| Max Schultz    | max.schultz@clearpath.example     | +44 20 7946 0958  |\n| HR inquirie..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "placeholder": "[PHONE_2]",
+    "context": "...  | max.schultz@clearpath.example     | +44 20 7946 0958  |\n| HR inquiries   | hr@clearpath.exam..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "EMAIL",
+    "original_value": "hr@clearpath.example",
+    "placeholder": "[EMAIL_9]",
+    "context": "... +44 20 7946 0958  |\n| HR inquiries   | hr@clearpath.example              | +1 646-555-0100   |..."
+  },
+  {
+    "file": "team-handbook.md",
+    "field": "## Contact Directory",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0100",
+    "placeholder": "[PHONE_6]",
+    "context": "...  | hr@clearpath.example              | +1 646-555-0100   |..."
+  }
+]

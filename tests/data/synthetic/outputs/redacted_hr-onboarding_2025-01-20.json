@@ -1,0 +1,53 @@
+{
+  "channel": "hr-onboarding_2025-01-20",
+  "messages": [
+    {
+      "ts": "1737331200.000000",
+      "user_id": null,
+      "bot_id": "B_SYNTH_HR",
+      "text": "I-9 verification complete. On file: SSN [SSN_1] and passport [PASSPORT_1]. Notification sent to [EMAIL_1]."
+    },
+    {
+      "ts": "1737331320.000000",
+      "user_id": "[SLACK_USER_ID_1]",
+      "bot_id": null,
+      "text": "[PERSON_1] here \u2014 new hire signups rose by four this month. Passport [PASSPORT_2] is filed for the new hire's I-9.",
+      "user_profile": {
+        "real_name": "[PERSON_1]",
+        "display_name": "[PERSON_1]",
+        "first_name": "[PERSON_1]",
+        "username": "[PERSON_1]",
+        "title": "People ops",
+        "avatar_hash": "[AVATAR_HASH_1]"
+      }
+    },
+    {
+      "ts": "1737331440.000000",
+      "user_id": "[SLACK_USER_ID_2]",
+      "bot_id": null,
+      "text": "[PERSON_2] here. I hope the summer intern paperwork is sorted \u2014 Summer is always a hectic season for onboarding.",
+      "user_profile": {
+        "real_name": "[PERSON_2]",
+        "display_name": "[PERSON_2]",
+        "first_name": "[PERSON_2]",
+        "username": "[PERSON_2]",
+        "title": "UX designer",
+        "avatar_hash": "[AVATAR_HASH_2]"
+      }
+    },
+    {
+      "ts": "1737331560.000000",
+      "user_id": "[SLACK_USER_ID_3]",
+      "bot_id": null,
+      "text": "[PERSON_3] approved the offer. We will grant them system access on day one.",
+      "user_profile": {
+        "real_name": "[PERSON_3]",
+        "display_name": "[PERSON_3]",
+        "first_name": "[PERSON_3]",
+        "username": "[PERSON_3]",
+        "title": "Security engineer",
+        "avatar_hash": "[AVATAR_HASH_3]"
+      }
+    }
+  ]
+}

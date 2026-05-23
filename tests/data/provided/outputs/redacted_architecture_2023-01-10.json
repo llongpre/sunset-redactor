@@ -1,0 +1,201 @@
+{
+  "channel": "architecture_2023-01-10",
+  "messages": [
+    {
+      "ts": "1673370000.000000",
+      "user_id": "[SLACK_USER_ID_1]",
+      "bot_id": null,
+      "text": "[PERSON_1]: I started the Redis failover design review for January 10, 2023. [PERSON_2], can you sanity check the grace period section before I send it to [PERSON_3]?",
+      "user_profile": {
+        "real_name": "[PERSON_1]",
+        "display_name": "[PERSON_1]",
+        "first_name": "[PERSON_1]",
+        "username": "[PERSON_1]",
+        "title": "Product lead",
+        "avatar_hash": "[AVATAR_HASH_1]"
+      }
+    },
+    {
+      "ts": "1673370120.000000",
+      "user_id": "[SLACK_USER_ID_2]",
+      "bot_id": null,
+      "text": "Yep. The grace period should stay at 7 days; grace here is the billing window, not my name. I will add a note in the PRD.",
+      "user_profile": {
+        "real_name": "[PERSON_2]",
+        "display_name": "[PERSON_2]",
+        "first_name": "[PERSON_2]",
+        "username": "[PERSON_2]",
+        "title": "ML engineer",
+        "avatar_hash": "[AVATAR_HASH_2]"
+      }
+    },
+    {
+      "ts": "1673370240.000000",
+      "user_id": "[SLACK_USER_ID_3]",
+      "bot_id": null,
+      "text": "[PERSON_3] here. I will mark the migration task as blocked until the canary proves reads are stable.",
+      "user_profile": {
+        "real_name": "[PERSON_3]",
+        "display_name": "[PERSON_3]",
+        "first_name": "[PERSON_3]",
+        "username": "[PERSON_3]",
+        "title": "Infra engineer",
+        "avatar_hash": "[AVATAR_HASH_3]"
+      }
+    },
+    {
+      "ts": "1673370360.000000",
+      "user_id": "[SLACK_USER_ID_4]",
+      "bot_id": null,
+      "text": "[PERSON_4] added the rollback checklist. The dashboard page should link to PagerDuty and the Redis runbook, but page is just a UI noun here.",
+      "user_profile": {
+        "real_name": "[PERSON_4]",
+        "display_name": "[PERSON_4]",
+        "first_name": "[PERSON_4]",
+        "username": "[PERSON_4]",
+        "title": "Eng manager",
+        "avatar_hash": "[AVATAR_HASH_4]"
+      }
+    },
+    {
+      "ts": "1673370480.000000",
+      "user_id": "[SLACK_USER_ID_5]",
+      "bot_id": null,
+      "text": "[PERSON_5] will grant permission to prod only after [PERSON_6] signs off on the incident response wording.",
+      "user_profile": {
+        "real_name": "[PERSON_5]",
+        "display_name": "[PERSON_5]",
+        "first_name": "[PERSON_5]",
+        "username": "[PERSON_5]",
+        "title": "Security engineer",
+        "avatar_hash": "[AVATAR_HASH_5]"
+      }
+    },
+    {
+      "ts": "1673370600.000000",
+      "user_id": "[SLACK_USER_ID_6]",
+      "bot_id": null,
+      "text": "[PERSON_6] reviewed it. Keep faith with the rollback plan: do not improvise during SEV2 unless PagerDuty escalation fails.",
+      "user_profile": {
+        "real_name": "[PERSON_6]",
+        "display_name": "[PERSON_6]",
+        "first_name": "[PERSON_6]",
+        "username": "[PERSON_6]",
+        "title": "Compliance lead",
+        "avatar_hash": "[AVATAR_HASH_6]"
+      }
+    },
+    {
+      "ts": "1673370720.000000",
+      "user_id": "[SLACK_USER_ID_7]",
+      "bot_id": null,
+      "text": "[PERSON_7] mocked up the observability page. I hope the chart labels stay readable on mobile.",
+      "user_profile": {
+        "real_name": "[PERSON_7]",
+        "display_name": "[PERSON_7]",
+        "first_name": "[PERSON_7]",
+        "username": "[PERSON_7]",
+        "title": "Designer",
+        "avatar_hash": "[AVATAR_HASH_7]"
+      }
+    },
+    {
+      "ts": "1673370840.000000",
+      "user_id": "[SLACK_USER_ID_8]",
+      "bot_id": null,
+      "text": "[PERSON_8] can chase the webhook owner. Please do not redact chase when it is a verb.",
+      "user_profile": {
+        "real_name": "[PERSON_8]",
+        "display_name": "[PERSON_8]",
+        "first_name": "[PERSON_8]",
+        "username": "[PERSON_8]",
+        "title": "Developer advocate",
+        "avatar_hash": "[AVATAR_HASH_8]"
+      }
+    },
+    {
+      "ts": "1673370960.000000",
+      "user_id": "[SLACK_USER_ID_4]",
+      "bot_id": null,
+      "text": "Potential leak in the draft: node IP [IP_ADDRESS_1] and Slack bot token [API_TOKEN_1] are pasted in the notes.",
+      "user_profile": {
+        "real_name": "[PERSON_4]",
+        "display_name": "[PERSON_4]",
+        "first_name": "[PERSON_4]",
+        "username": "[PERSON_4]",
+        "title": "Eng manager",
+        "avatar_hash": "[AVATAR_HASH_4]"
+      }
+    },
+    {
+      "ts": "1673371080.000000",
+      "user_id": "[SLACK_USER_ID_1]",
+      "bot_id": null,
+      "text": "I moved the public link to https://github.com/helios-labs/platform/blob/main/docs/runbook.md. GitHub is a product/org, not a teammate.",
+      "user_profile": {
+        "real_name": "[PERSON_1]",
+        "display_name": "[PERSON_1]",
+        "first_name": "[PERSON_1]",
+        "username": "[PERSON_1]",
+        "title": "Product lead",
+        "avatar_hash": "[AVATAR_HASH_1]"
+      }
+    },
+    {
+      "ts": "1673371200.000000",
+      "user_id": "[SLACK_USER_ID_9]",
+      "bot_id": null,
+      "text": "[PERSON_9] may move the launch milestone from May to June if the build is still red. First May is a person; the second May is a month.",
+      "user_profile": {
+        "real_name": "[PERSON_9]",
+        "display_name": "[PERSON_9]",
+        "first_name": "[PERSON_9]",
+        "username": "[PERSON_9]",
+        "title": "Data scientist",
+        "avatar_hash": "[AVATAR_HASH_9]"
+      }
+    },
+    {
+      "ts": "1673371320.000000",
+      "user_id": "[SLACK_USER_ID_10]",
+      "bot_id": null,
+      "text": "[PERSON_10] checked the graph: error volume rose 18% after deploy. The second rose is just a verb.",
+      "user_profile": {
+        "real_name": "[PERSON_10]",
+        "display_name": "[PERSON_10]",
+        "first_name": "[PERSON_10]",
+        "username": "[PERSON_10]",
+        "title": "PM",
+        "avatar_hash": "[AVATAR_HASH_10]"
+      }
+    },
+    {
+      "ts": "1673371440.000000",
+      "user_id": "[SLACK_USER_ID_11]",
+      "bot_id": null,
+      "text": "[PERSON_11] is fixing bill payment retries. Bill is a person in my name; bill payment is product text.",
+      "user_profile": {
+        "real_name": "[PERSON_11]",
+        "display_name": "[PERSON_11]",
+        "first_name": "[PERSON_11]",
+        "username": "[PERSON_11]",
+        "title": "Payments engineer",
+        "avatar_hash": "[AVATAR_HASH_11]"
+      }
+    },
+    {
+      "ts": "1673371560.000000",
+      "user_id": "[SLACK_USER_ID_1]",
+      "bot_id": null,
+      "text": "Summer traffic is mentioned in the seasonality note, but Summer is not a teammate in this channel.",
+      "user_profile": {
+        "real_name": "[PERSON_1]",
+        "display_name": "[PERSON_1]",
+        "first_name": "[PERSON_1]",
+        "username": "[PERSON_1]",
+        "title": "Product lead",
+        "avatar_hash": "[AVATAR_HASH_1]"
+      }
+    }
+  ]
+}

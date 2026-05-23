@@ -3,5 +3,3 @@ __pycache__/
 *.pyc
 *.pyo
 .pytest_cache/
-tests/data/provided/outputs/
-tests/data/synthetic/outputs/

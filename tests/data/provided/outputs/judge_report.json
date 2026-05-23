@@ -1,0 +1,1046 @@
+{
+  "run_at": "2026-05-23T18:16:00.574704+00:00",
+  "summary": {
+    "total": 7,
+    "passed": 5,
+    "failed": 2
+  },
+  "files": [
+    {
+      "source": "tests/data/provided/outputs/evidence_by_file.json",
+      "passed": true,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_10]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_11]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_12]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_13]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_14]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_15]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_16]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_17]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_18]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_19]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_1]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_20]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_21]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_22]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_23]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_24]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_25]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_26]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_27]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_28]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_29]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_30]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_31]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_32]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_33]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_34]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_35]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_36]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_37]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_38]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_4]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_7]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_8]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_9]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/evidence_by_placeholder.json",
+      "passed": true,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_10]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_11]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_12]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_13]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_14]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_15]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_16]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_17]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_18]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_19]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_1]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_20]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_21]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_22]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_23]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_24]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_25]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_26]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_27]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_28]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_29]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_30]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_31]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_32]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_33]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_34]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_35]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_36]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_37]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_38]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_4]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_7]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_8]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_9]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/redacted_architecture_2023-01-10.json",
+      "passed": true,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_10]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_11]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_1]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_4]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_7]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_8]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_9]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/redacted_banking-bots_2024-11-07.json",
+      "passed": false,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_11]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 a Payments engineer at a banking/fintech organization",
+          "reasoning": "The only available context is the job title 'Payments engineer' and that they reproduced incident INC-2024-1107 involving bill payment retries; no name, demographic, or uniquely identifying detail is present."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 an ML engineer at the same banking/fintech organization",
+          "reasoning": "Context shows they are an ML engineer who received a note from the infra engineer after a Stripe key rotation and flagged grace period calculation bugs for Chase Bank bill pay users, but no personally identifying information remains."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 an Infrastructure engineer at the same organization",
+          "reasoning": "They are identified as an 'Infra engineer' who rotated the Stripe API key and left a note for [PERSON_2], but no name or further uniquely identifying detail is present beyond the role and actions."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 a Security engineer at the same organization",
+          "reasoning": "Their user profile lists the title 'Security engineer' and they are conditionally gating service account permission on [PERSON_3]'s API token rotation, but no name or other identifying detail survives redaction."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 the Compliance lead at the same organization",
+          "reasoning": "Their profile title is 'Compliance lead' and they reported seeing PII (SSN, tax ID, credit card) in a pasted support payload, but no name or further identifying information is present."
+        },
+        {
+          "placeholder": "[PERSON_8]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "unknown \u2014 a Developer advocate at the same organization",
+          "reasoning": "Their profile title is 'Developer advocate' and they are tasked with chasing a vendor about a Chase Bank webhook, but no name or other uniquely identifying detail remains."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/redacted_data-science_2024-06-12.json",
+      "passed": false,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_10]",
+          "identifiable": true,
+          "confidence": "low",
+          "inferred_identity": "Someone whose first name is 'Rose' (self-disclosed), PM role",
+          "reasoning": "The message explicitly states 'Rose is my name,' revealing that [PERSON_10]'s first name is Rose, and their job title is PM \u2014 a partial but real identifying detail."
+        },
+        {
+          "placeholder": "[PERSON_12]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is that they are an approver contacted by [PERSON_1]; no job title, employer, or other identifying details are provided."
+        },
+        {
+          "placeholder": "[PERSON_13]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is that their phone number appeared in analysis notes and was flagged for cleanup; no other identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_1]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Product lead' and that they interact with [PERSON_12] for approvals; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'ML engineer' and a comment about a grace period cohort; no distinguishing personal details are present."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Infra engineer' and a request about experiment row marking; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_4]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Eng manager' and a data cleanup action; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Security engineer' and a comment about segment labels; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Compliance lead' and a request about the Q3 dashboard; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_7]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Designer' and a comment about chart labels; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_8]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Developer advocate' and a comparison of Chase Bank referral vs. organic fintech traffic; no unique identifying details are present."
+        },
+        {
+          "placeholder": "[PERSON_9]",
+          "identifiable": false,
+          "confidence": "high",
+          "inferred_identity": null,
+          "reasoning": "Only context is the job title 'Data scientist' and authorship of a retention analysis; no unique identifying details are present."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/redacted_kindlymd_investor_presentation_management.txt",
+      "passed": true,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_14]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_15]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_16]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_17]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_18]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_19]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_20]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_21]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_22]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_23]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_24]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_25]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_26]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_27]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_28]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_29]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_30]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_31]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_32]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_33]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        }
+      ]
+    },
+    {
+      "source": "tests/data/provided/outputs/redacted_people-launch_2026-04-10.json",
+      "passed": true,
+      "verdicts": [
+        {
+          "placeholder": "[PERSON_10]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_11]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_12]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_13]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_1]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_2]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_34]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_35]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_36]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_37]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_38]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_3]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_4]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_5]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_6]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_7]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        },
+        {
+          "placeholder": "[PERSON_9]",
+          "identifiable": false,
+          "confidence": "low",
+          "inferred_identity": null,
+          "reasoning": "Not evaluated by judge."
+        }
+      ]
+    }
+  ]
+}

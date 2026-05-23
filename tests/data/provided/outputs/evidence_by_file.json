@@ -1,0 +1,2162 @@
+[
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "...Will Harper: I started the Redis failover design re..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "...ver design review for January 10, 2023. Grace Liu, can you sanity check the grace period ..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...race period section before I send it to Mark Rivera?..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Will",
+    "placeholder": "[PERSON_1]",
+    "context": "Will"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "will.harper",
+    "placeholder": "[PERSON_1]",
+    "context": "will.harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grace",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grace.liu",
+    "placeholder": "[PERSON_2]",
+    "context": "grace.liu"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...Mark Rivera here. I will mark the migration task as..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Mark",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "mark.rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "mark.rivera"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...Dana Kim added the rollback checklist. The dashb..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Dana",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "dana.kim",
+    "placeholder": "[PERSON_4]",
+    "context": "dana.kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "...Grant Lee will grant permission to prod only afte..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "...ill grant permission to prod only after Faith Morgan signs off on the incident response word..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grant",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grant.lee",
+    "placeholder": "[PERSON_5]",
+    "context": "grant.lee"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "...Faith Morgan reviewed it. Keep faith with the rollba..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Faith",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "faith.morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "faith.morgan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "...Hope Kaplan mocked up the observability page. I hop..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Hope",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "hope.kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "hope.kaplan"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "...Chase Kim can chase the webhook owner. Please do ..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Chase",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "chase.kim",
+    "placeholder": "[PERSON_8]",
+    "context": "chase.kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "IP_ADDRESS",
+    "original_value": "10.24.18.77",
+    "placeholder": "[IP_ADDRESS_1]",
+    "context": "...Potential leak in the draft: node IP 10.24.18.77 and Slack bot token xoxb-1122-demo-toke..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "API_TOKEN",
+    "original_value": "xoxb-1122-demo-token",
+    "placeholder": "[API_TOKEN_1]",
+    "context": "...node IP 10.24.18.77 and Slack bot token xoxb-1122-demo-token are pasted in the notes...."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Dana",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "dana.kim",
+    "placeholder": "[PERSON_4]",
+    "context": "dana.kim"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Will",
+    "placeholder": "[PERSON_1]",
+    "context": "Will"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "will.harper",
+    "placeholder": "[PERSON_1]",
+    "context": "will.harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "...May Chen may move the launch milestone from May ..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "May",
+    "placeholder": "[PERSON_9]",
+    "context": "May"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "may.chen",
+    "placeholder": "[PERSON_9]",
+    "context": "may.chen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "...Rose Patel checked the graph: error volume rose 18..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Rose",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "rose.patel",
+    "placeholder": "[PERSON_10]",
+    "context": "rose.patel"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "...Bill Nguyen is fixing bill payment retries. Bill is..."
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Bill",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "bill.nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "bill.nguyen"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Will",
+    "placeholder": "[PERSON_1]",
+    "context": "Will"
+  },
+  {
+    "file": "architecture_2023-01-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "will.harper",
+    "placeholder": "[PERSON_1]",
+    "context": "will.harper"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "...Bill Nguyen reproduced INC-2024-1107. Bill payment ..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "BANK_ACCOUNT",
+    "original_value": "987654321",
+    "placeholder": "[BANK_ACCOUNT_1]",
+    "context": "...Bill payment retries should use account 987654321 and routing 021000021 only in the secur..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "ROUTING_NUMBER",
+    "original_value": "021000021",
+    "placeholder": "[ROUTING_NUMBER_1]",
+    "context": "...hould use account 987654321 and routing 021000021 only in the secure vault...."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Bill",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "bill.nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "bill.nguyen"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "...Faith Morgan saw SSN 123-45-6789, tax id 12-3456789,..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "SSN",
+    "original_value": "123-45-6789",
+    "placeholder": "[SSN_1]",
+    "context": "...Faith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 ..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "TAX_ID",
+    "original_value": "12-3456789",
+    "placeholder": "[TAX_ID_1]",
+    "context": "...aith Morgan saw SSN 123-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a past..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "CREDIT_CARD",
+    "original_value": "4242 4242 4242 4242",
+    "placeholder": "[CREDIT_CARD_1]",
+    "context": "...23-45-6789, tax id 12-3456789, and card 4242 4242 4242 4242 in a pasted support payload...."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Faith",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "faith.morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "faith.morgan"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...ssion to the service account only after Mark Rivera rotates sk_live_51H8demoToken...."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "API_TOKEN",
+    "original_value": "sk_live_51H8demoToken",
+    "placeholder": "[API_TOKEN_2]",
+    "context": "... account only after Mark Rivera rotates sk_live_51H8demoToken...."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grant",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grant.lee",
+    "placeholder": "[PERSON_5]",
+    "context": "grant.lee"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...Mark Rivera rotated the Stripe key and left a note ..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "...ated the Stripe key and left a note for Grace Liu. Please mark this as SEV2 after validat..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Mark",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "mark.rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "mark.rivera"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "...Grace Liu: grace period calculations are wrong fo..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grace",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grace.liu",
+    "placeholder": "[PERSON_2]",
+    "context": "grace.liu"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "...Chase Kim will chase the vendor and confirm wheth..."
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Chase",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase"
+  },
+  {
+    "file": "banking-bots_2024-11-07.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "chase.kim",
+    "placeholder": "[PERSON_8]",
+    "context": "chase.kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "...May Chen posted the June 12, 2024 retention anal..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "May",
+    "placeholder": "[PERSON_9]",
+    "context": "May"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "may.chen",
+    "placeholder": "[PERSON_9]",
+    "context": "may.chen"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "...Grace Liu: the grace period cohort has lower chur..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grace",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grace.liu",
+    "placeholder": "[PERSON_2]",
+    "context": "grace.liu"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "...Rose Patel agrees the metric rose because returnin..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Rose",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "rose.patel",
+    "placeholder": "[PERSON_10]",
+    "context": "rose.patel"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "...Will Harper will ask Ari Mendoza for approval befor..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Ari Mendoza",
+    "placeholder": "[PERSON_12]",
+    "context": "...Will Harper will ask Ari Mendoza for approval before emailing ari.mendoz..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "EMAIL",
+    "original_value": "ari.mendoza@bioverse.example",
+    "placeholder": "[EMAIL_1]",
+    "context": "...ri Mendoza for approval before emailing ari.mendoza@bioverse.example...."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Will",
+    "placeholder": "[PERSON_1]",
+    "context": "Will"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "will.harper",
+    "placeholder": "[PERSON_1]",
+    "context": "will.harper"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...Mark Rivera asked us to mark rows with exp_2024_061..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Mark",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "mark.rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "mark.rivera"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "...Hope Kaplan: I hope the chart labels do not turn ho..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Hope",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "hope.kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "hope.kaplan"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "...Chase Kim compared Chase Bank referral traffic wi..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Chase Kim",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase Kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Chase",
+    "placeholder": "[PERSON_8]",
+    "context": "Chase"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "chase.kim",
+    "placeholder": "[PERSON_8]",
+    "context": "chase.kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Elena Garcia",
+    "placeholder": "[PERSON_13]",
+    "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PHONE",
+    "original_value": "+1 646-555-0142",
+    "placeholder": "[PHONE_1]",
+    "context": "...Dana Kim found Elena Garcia's phone +1 646-555-0142 in the analysis notes and flagged it fo..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Dana",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "dana.kim",
+    "placeholder": "[PERSON_4]",
+    "context": "dana.kim"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "...Grant Lee says grant-funded users should stay a s..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grant",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grant.lee",
+    "placeholder": "[PERSON_5]",
+    "context": "grant.lee"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "...Faith Morgan wants the Q3 dashboard to mention North..."
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Faith",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith"
+  },
+  {
+    "file": "data-science_2024-06-12.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "faith.morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "faith.morgan"
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_3",
+    "kind": "ADDRESS",
+    "original_value": "Harborside Financial Center Plaza 5, 185 Hudson Street, Ste 1410, Jersey City, NJ 07311",
+    "placeholder": "[ADDRESS_1]",
+    "context": "... LLC., Attention: Syndicate Department, Harborside Financial Center Plaza 5, 185 Hudson Street, Ste 1410, Jersey City, NJ 07311, by email at info@wallachbeth.com, or b..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_3",
+    "kind": "EMAIL",
+    "original_value": "info@wallachbeth.com",
+    "placeholder": "[EMAIL_2]",
+    "context": "...410, Jersey City, NJ 07311, by email at info@wallachbeth.com, or by telephone at 646-237-8585. This ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_3",
+    "kind": "PHONE",
+    "original_value": "646-237-8585",
+    "placeholder": "[PHONE_2]",
+    "context": "...nfo@wallachbeth.com, or by telephone at 646-237-8585. This presentation does not constitute ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_4",
+    "kind": "PERSON",
+    "original_value": "Tim Pickett",
+    "placeholder": "[PERSON_14]",
+    "context": "...Tim Pickett Chief Executive Officer, Chairman Tim P..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_4",
+    "kind": "PERSON",
+    "original_value": "Tim Pickett",
+    "placeholder": "[PERSON_14]",
+    "context": "...ckett Chief Executive Officer, Chairman Tim Pickett, MPAS-C, age 46, is the founder and CEO..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_4",
+    "kind": "AGE",
+    "original_value": "age 46",
+    "placeholder": "[AGE_1]",
+    "context": "... Officer, Chairman Tim Pickett, MPAS-C, age 46, is the founder and CEO since the Compa..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_4",
+    "kind": "PERSON",
+    "original_value": "Steward Medical Group",
+    "placeholder": "[PERSON_15]",
+    "context": "...ery, Trauma, and Emergency Medicine for Steward Medical Group\u2019s Physician Group of Utah from 2014 to ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Christian Robinson",
+    "placeholder": "[PERSON_16]",
+    "context": "...18 Christian Robinson Christian Robinson, CPA, age 55, is cur..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Christian Robinson",
+    "placeholder": "[PERSON_16]",
+    "context": "...18 Christian Robinson Christian Robinson, CPA, age 55, is currently the Corporat..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "AGE",
+    "original_value": "age 55",
+    "placeholder": "[AGE_2]",
+    "context": "...stian Robinson Christian Robinson, CPA, age 55, is currently the Corporate Controller ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Pave America",
+    "placeholder": "[PERSON_17]",
+    "context": "...s currently the Corporate Controller at Pave America. Prior to that he was Chief Financial O..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Zion Pharmaceuticals, LLC",
+    "placeholder": "[PERSON_18]",
+    "context": "... that he was Chief Financial Officer of Zion Pharmaceuticals, LLC and Intrepid Biosciences, LLC group of ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Intrepid Biosciences, LLC",
+    "placeholder": "[PERSON_19]",
+    "context": "...fficer of Zion Pharmaceuticals, LLC and Intrepid Biosciences, LLC group of companies. A licensed CPA for ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Christian",
+    "placeholder": "[PERSON_20]",
+    "context": "...nies. A licensed CPA for over 25 years, Christian worked as an auditor for Deloitte and t..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Deloitte",
+    "placeholder": "[PERSON_21]",
+    "context": "...ars, Christian worked as an auditor for Deloitte and then Ernst & Young, two of the larg..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Ernst & Young",
+    "placeholder": "[PERSON_22]",
+    "context": "...ked as an auditor for Deloitte and then Ernst & Young, two of the largest accounting \ufb01rms in ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Amy Powell",
+    "placeholder": "[PERSON_23]",
+    "context": "...perience as well as in cannabis \ufb01nance. Amy Powell Amy Powell, MD, FACP, FAMSSM, age 50, i..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Amy Powell",
+    "placeholder": "[PERSON_23]",
+    "context": "... well as in cannabis \ufb01nance. Amy Powell Amy Powell, MD, FACP, FAMSSM, age 50, is currently..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "AGE",
+    "original_value": "age 50",
+    "placeholder": "[AGE_3]",
+    "context": "...my Powell Amy Powell, MD, FACP, FAMSSM, age 50, is currently a Professor (Clinical) in..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "University of Utah",
+    "placeholder": "[PERSON_24]",
+    "context": "...in the Department of Orthopedics at the University of Utah, where she has cared for people across ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Gary Seelhorst",
+    "placeholder": "[PERSON_25]",
+    "context": "...ly bene\ufb01t patients served by KindlyMD\u2122. Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Sen..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Gary Seelhorst",
+    "placeholder": "[PERSON_25]",
+    "context": "...nts served by KindlyMD\u2122. Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Senior VP of Natio..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "AGE",
+    "original_value": "age 52",
+    "placeholder": "[AGE_4]",
+    "context": "...Gary Seelhorst Gary Seelhorst, MS, MBA, age 52, is Senior VP of National Compliance & ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Justice Grown",
+    "placeholder": "[PERSON_26]",
+    "context": "...al Compliance & Governmental Affairs at Justice Grown, with a 25-year career in Pharmaceutica..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Gary",
+    "placeholder": "[PERSON_27]",
+    "context": "...\u2122, he applies his scienti\ufb01c background. Gary contributes extensive expertise in gove..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Adam Cox",
+    "placeholder": "[PERSON_28]",
+    "context": "..., compliance, and business development. Adam Cox, 47, is a seasoned and dynamic leader f..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "AGE",
+    "original_value": "47",
+    "placeholder": "[AGE_5]",
+    "context": "...ce, and business development. Adam Cox, 47, is a seasoned and dynamic leader focus..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Steward Healthcare",
+    "placeholder": "[PERSON_29]",
+    "context": "...operational efficiency. He stood out as Steward Healthcare\u2019s go-to expert for critical operations,..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Jared Barrera",
+    "placeholder": "[PERSON_30]",
+    "context": "...f clinical IS operations for expansion. Jared Barrera, MBA, 43, became CFO of KindlyMD\u2122on Sep..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "AGE",
+    "original_value": "43",
+    "placeholder": "[AGE_6]",
+    "context": "...ions for expansion. Jared Barrera, MBA, 43, became CFO of KindlyMD\u2122on September 28..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Jared",
+    "placeholder": "[PERSON_31]",
+    "context": "...nking, he brings a wealth of expertise. Jared\u2019s journey spans from Director of Financ..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Physician Group of Utah",
+    "placeholder": "[PERSON_32]",
+    "context": "...rney spans from Director of Finance for Physician Group of Utah (2015-2018) to Senior Manager of Revenu..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Granger Medical Clinic",
+    "placeholder": "[PERSON_33]",
+    "context": "...enue Cycle and Business Intelligence at Granger Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Adam Cox",
+    "placeholder": "[PERSON_28]",
+    "context": "... at Granger Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_18",
+    "kind": "PERSON",
+    "original_value": "Jared Barrera",
+    "placeholder": "[PERSON_30]",
+    "context": "...er Medical Clinic (2018-2022). Adam Cox Jared Barrera..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Tim Pickett",
+    "placeholder": "[PERSON_14]",
+    "context": "...O\ufb03cers & Directors Tim Pickett, MPAS-C Chief Executive Officer, Chairm..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Adam Cox",
+    "placeholder": "[PERSON_28]",
+    "context": "...PAS-C Chief Executive Officer, Chairman Adam Cox Chief Operating Officer, Director Jared..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Jared Barrera",
+    "placeholder": "[PERSON_30]",
+    "context": "...m Cox Chief Operating Officer, Director Jared Barrera Chief Financial Officer Christian Robin..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Christian Robinson",
+    "placeholder": "[PERSON_16]",
+    "context": "...r Jared Barrera Chief Financial Officer Christian Robinson Corporate Controller Pave America Board..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Pave America",
+    "placeholder": "[PERSON_17]",
+    "context": "...Christian Robinson Corporate Controller Pave America Board Member Amy Powell, MD 26 Years Ex..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Amy Powell",
+    "placeholder": "[PERSON_23]",
+    "context": "...te Controller Pave America Board Member Amy Powell, MD 26 Years Experience Non-Surgical Sp..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Gary Seelhorst",
+    "placeholder": "[PERSON_25]",
+    "context": "... Medicine Board Member, Medical Advisor Gary Seelhorst Senior VP of National Compliance & Gove..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_19",
+    "kind": "PERSON",
+    "original_value": "Justice Grown",
+    "placeholder": "[PERSON_26]",
+    "context": "...al Compliance & Governmental Affairs at Justice Grown Board Member 19..."
+  },
+  {
+    "file": "kindlymd_investor_presentation_management.pdf",
+    "field": "page_24",
+    "kind": "EMAIL",
+    "original_value": "investors@kindlymd.com",
+    "placeholder": "[EMAIL_3]",
+    "context": "...Thank you! For more information, email investors@kindlymd.com or visit kindlymd.com..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New Yo..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Ari Mendoza",
+    "placeholder": "[PERSON_12]",
+    "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on ..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "ADDRESS",
+    "original_value": "245 Park Ave, New York, NY 10167",
+    "placeholder": "[ADDRESS_2]",
+    "context": "...Will Harper met Ari Mendoza at 245 Park Ave, New York, NY 10167 on April 10, 2026. Ari's email is ari.m..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Ari",
+    "placeholder": "[PERSON_34]",
+    "context": "..., New York, NY 10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "EMAIL",
+    "original_value": "ari.mendoza@bioverse.example",
+    "placeholder": "[EMAIL_1]",
+    "context": "...10167 on April 10, 2026. Ari's email is ari.mendoza@bioverse.example...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Will Harper",
+    "placeholder": "[PERSON_1]",
+    "context": "Will Harper"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Will",
+    "placeholder": "[PERSON_1]",
+    "context": "Will"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "will.harper",
+    "placeholder": "[PERSON_1]",
+    "context": "will.harper"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "...Grace Liu says we can say grace before the launch..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grace Liu",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace Liu"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grace",
+    "placeholder": "[PERSON_2]",
+    "context": "Grace"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grace.liu",
+    "placeholder": "[PERSON_2]",
+    "context": "grace.liu"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "...May Chen may invite Renee Cho at rcho@bioverse.e..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Renee Cho",
+    "placeholder": "[PERSON_35]",
+    "context": "...May Chen may invite Renee Cho at rcho@bioverse.example to the April r..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "EMAIL",
+    "original_value": "rcho@bioverse.example",
+    "placeholder": "[EMAIL_4]",
+    "context": "...May Chen may invite Renee Cho at rcho@bioverse.example to the April review...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "May Chen",
+    "placeholder": "[PERSON_9]",
+    "context": "May Chen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "May",
+    "placeholder": "[PERSON_9]",
+    "context": "May"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "may.chen",
+    "placeholder": "[PERSON_9]",
+    "context": "may.chen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "...Dana Kim: Elena Garcia's email elena.garcia@biov..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Elena Garcia",
+    "placeholder": "[PERSON_13]",
+    "context": "...Dana Kim: Elena Garcia's email elena.garcia@bioverse.example s..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "EMAIL",
+    "original_value": "elena.garcia@bioverse.example",
+    "placeholder": "[EMAIL_5]",
+    "context": "...Dana Kim: Elena Garcia's email elena.garcia@bioverse.example should be removed from launch-brief-v7...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Dana Kim",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana Kim"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Dana",
+    "placeholder": "[PERSON_4]",
+    "context": "Dana"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "dana.kim",
+    "placeholder": "[PERSON_4]",
+    "context": "dana.kim"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "...Mark Rivera will mark Nadia Petrova's phone +44 20 ..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Nadia Petrova",
+    "placeholder": "[PERSON_36]",
+    "context": "...Mark Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PHONE",
+    "original_value": "+44 20 7946 0958",
+    "placeholder": "[PHONE_3]",
+    "context": "... Rivera will mark Nadia Petrova's phone +44 20 7946 0958 as sensitive...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Mark Rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark Rivera"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Mark",
+    "placeholder": "[PERSON_3]",
+    "context": "Mark"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "mark.rivera",
+    "placeholder": "[PERSON_3]",
+    "context": "mark.rivera"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "...Rose Patel said signups rose after Sam Lee at Nort..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Sam Lee",
+    "placeholder": "[PERSON_37]",
+    "context": "...Rose Patel said signups rose after Sam Lee at Northstar VC shared the page...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Northstar VC",
+    "placeholder": "[PERSON_38]",
+    "context": "...atel said signups rose after Sam Lee at Northstar VC shared the page...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Rose Patel",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose Patel"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Rose",
+    "placeholder": "[PERSON_10]",
+    "context": "Rose"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "rose.patel",
+    "placeholder": "[PERSON_10]",
+    "context": "rose.patel"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "...Faith Morgan found passport P4319927 in a screenshot..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PASSPORT",
+    "original_value": "P4319927",
+    "placeholder": "[PASSPORT_1]",
+    "context": "...Faith Morgan found passport P4319927 in a screenshot and opened risk-8842 fo..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Faith Morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith Morgan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Faith",
+    "placeholder": "[PERSON_6]",
+    "context": "Faith"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "faith.morgan",
+    "placeholder": "[PERSON_6]",
+    "context": "faith.morgan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "...Hope Kaplan wrote \u201chope this helps\u201d in the PRD comm..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "...e this helps\u201d in the PRD comments; only Hope Kaplan is a person...."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Hope Kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope Kaplan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Hope",
+    "placeholder": "[PERSON_7]",
+    "context": "Hope"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "hope.kaplan",
+    "placeholder": "[PERSON_7]",
+    "context": "hope.kaplan"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "...Bill Nguyen says the KindlyMD deck should stay next..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Bill Nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill Nguyen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Bill",
+    "placeholder": "[PERSON_11]",
+    "context": "Bill"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "bill.nguyen",
+    "placeholder": "[PERSON_11]",
+    "context": "bill.nguyen"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "text",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "...Grant Lee will grant permission for the final exp..."
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.real_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.display_name",
+    "kind": "PERSON",
+    "original_value": "Grant Lee",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant Lee"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.first_name",
+    "kind": "PERSON",
+    "original_value": "Grant",
+    "placeholder": "[PERSON_5]",
+    "context": "Grant"
+  },
+  {
+    "file": "people-launch_2026-04-10.json",
+    "field": "user_profile.username",
+    "kind": "PERSON",
+    "original_value": "grant.lee",
+    "placeholder": "[PERSON_5]",
+    "context": "grant.lee"
+  }
+]
